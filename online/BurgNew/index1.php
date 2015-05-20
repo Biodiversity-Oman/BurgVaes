@@ -21,11 +21,10 @@
     <header>
         <div class="first-container " id="section1">
             <div class="v-center">
-                <h1 class="text-center header-font">Burg Vaes</h1>
+                <h1 class="text-center header-font">Architectenbureau Burg Vaes</h1>
 
                 <h3 class="text-center header-font-sub ">Architecten voor uw Huis</h3>
 
-                <h4 class="text-center"> Ook wij bouwen ... aan onze nieuwe website</h4>
             </div>
         </div>
     </header>
@@ -47,7 +46,7 @@
             <ul class="nav navbar-nav navbar-static-top  navbar-left nav-font">
                 <li><a href="#section1">Home</a></li>
                 <li><a href="#section2">Projecten</a></li>
-                <li><a href="#section3">Profiel</a></li>
+                <li><a href="#section3">Info</a></li>
                 <li><a href="#section4">Contact</a></li>
             </ul>
 
@@ -60,7 +59,7 @@
         <section>
             <div class="row">
                 <div class="col-sm-10 col-sm-offset-1">
-                    <h1>Projecten</h1>
+                    <h2 class="text-center">Projecten</h2>
 
                     <div class="col-lg-3">
                         <div class="thumbnail">
@@ -165,18 +164,16 @@
     <section id="section3">
         <div class="row">
             <div class="col-sm-10 col-sm-offset-1">
-                <h1>Profiel</h1>
+                <h2 class="text-center">Info</h2>
 
                 <div class="col-sm-5">
-                    <h3>VAES Burghard</h3>
+                    <h3>Burg Vaes</h3>
 
                     <h4> Architect / Zaakvoerder </h4><br>
 
                     <p> Studies interieurvormgeving aan St-Lukas te Brussel &nbsp; (2004-2007)</p>
 
                     <p> Studies architectuur aan St-Lukas te Brussel &nbsp; (2007-2011)</p>
-
-                    <p>Studies architectuur aan St-Lukas te Brussel &nbsp; (2007-2011)</p>
 
                     <p>Nominatie: Young architect award &nbsp;(2011)</p>
 
@@ -201,7 +198,7 @@
         <div class="row" id="section4">
 
             <div class="col-sm-10 col-sm-offset-1">
-                <h1>Locatie</h1>
+                <h2 class="text-center">Locatie</h2>
             </div>
 
             <div id="map-canvas"></div>
@@ -213,16 +210,10 @@
                 <address>
                     <h3>Burg Vaes Architecten</h3><br>
         <span id="map-input">
-        Eduard Branlystraat 6<br>
-        1190 Vorst</span><br>
+        Steenweg 139<br>
+        3540 Herk-de-Stad</span><br>
                 </address>
 
-                <address>Steenweg 139<br>
-                    3540 Herk-de-Stad
-                </address>
-                0497/135700
-                <address>
-                    <br>
                     <strong>stuur een mailtje</strong><br>
                     <a href="mailto:#">info@burgvaes.be</a>
                 </address>

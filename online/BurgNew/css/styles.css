@@ -5,8 +5,8 @@ body {
     height: 100%;
     /* The html and body elements cannot have any padding or margin. */
     -webkit-font-smoothing: antialiased;
-    font-family: Helvetica, Arial, sans-serif;
-    font-size: 1em ;
+    font-family: Courier, "Courier New", monospace;
+    font-size: 0.8em ;
     background: #333;
     color: #ffffff;
 }
@@ -52,21 +52,21 @@ body {
 
 
 .header-font{
-    font-family: 'Lato', sans-serif;
+    font-family: Courier, "Courier New", monospace;
     font-weight:normal;
-    font-size: 7em;
+    font-size: 5em;
     line-height:1em;
 }
 
 .header-font-sub{
-    font-family: 'Lato', sans-serif;
+    font-family: Courier, "Courier New", monospace;
     font-weight:normal;
-    font-size: 4em;
+    font-size: 3em;
     line-height:1em;
 }
 .nav-font{
-    font-family: 'Droid Sans', sans-serif;
-    font-size: 1.6em;
+    font-family: Courier, "Courier New", monospace;
+    font-size: 1.5em;
 }
 
 #footer {
@@ -80,7 +80,27 @@ header {
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 40px;
+    font-family: Courier, "Courier New", monospace;
+    margin: 5% 0% 5% 0%;
+}
+
+h2 {
+    font-size: 35px;
+    font-family: Courier, "Courier New", monospace;
+    margin: 5% 0% 5% 0%;
+}
+
+h3 {
+    font-size: 30px;
+    font-family: Courier, "Courier New", monospace;
+    margin: 5% 0% 5% 0%;
+}
+
+h4 {
+    font-size: 20px;
+    font-family: Courier, "Courier New", monospace;
+    margin: 5% 0% 5% 0%;
 }
 
 #custom-nav {
@@ -217,9 +237,10 @@ section {
 }
 
 .thumbnail {
-    position:relative;
-    overflow:hidden;
-}
+     position:relative;
+     overflow:hidden;
+
+ }
 
 .thumbnail .caption {
     position:absolute;
@@ -234,4 +255,11 @@ section {
     text-align:center;
     color:#fff !important;
     z-index:2;
+}
+
+.row .thumbnail {
+    border:0;
+    box-shadow:0;
+    border-radius:0;
+    padding: 0px;
 }
