@@ -9,12 +9,12 @@ $('#nav').affix({
 });	
 
 /* highlight the top nav as scrolling occurs */
-$('body').scrollspy({ target: '#nav' })
+$('body').scrollspy({ target: '#nav' });
 
 /* smooth scrolling for scroll to top */
 $('.scroll-top').click(function(){
   $('body,html').animate({scrollTop:0},1000);
-})
+});
 
 /* smooth scrolling for nav sections */
 $('#nav .navbar-nav li>a').click(function(){
@@ -48,7 +48,7 @@ $('#modalCarousel').carousel({interval:false});
 /* change modal title when slide changes */
 $('#modalCarousel').on('slid.bs.carousel', function () {
   $('.modal-title').html($(this).find('.active').attr("title"));
-})
+});
 
 /* when clicking a thumbnail */
 $('.panel-thumbnail>a').click(function(e){

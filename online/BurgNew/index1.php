@@ -30,7 +30,11 @@
         </div>
     </header>
     <nav class="navbar navbar-default navbar-static-top" role="navigation" id="custom-nav">
+        <a class="navbar-brand pull-right" href="#section1">
+            <img src="css/images/logoNav.png" id="nav-logo">
+        </a>
         <div class="navbar-header">
+
             <button type="button" class="navbar-toggle" data-toggle="collapse"
                     data-target=".navbar-collapse">
                 <span class="icon-bar"></span>
@@ -41,16 +45,12 @@
         </div>
         <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav navbar-static-top  navbar-left nav-font">
-                <li><a href="#section1">home</a></li>
-                <li><a href="#section2">projecten</a></li>
-                <li><a href="#section3">profile</a></li>
-                <li><a href="#section4">contact</a></li>
+                <li><a href="#section1">Home</a></li>
+                <li><a href="#section2">Projecten</a></li>
+                <li><a href="#section3">Profiel</a></li>
+                <li><a href="#section4">Contact</a></li>
             </ul>
-            <ul class="pull-right">
-                <li><a class="navbar-brand" href="#section1">
-                        <img src="css/images/logoNav.png">
-                    </a></li>
-            </ul>
+
         </div>
     </nav>
 
@@ -158,17 +158,18 @@
                     </div>
                 </div>
         </section>
-
-        <section class="bg-1">
-            <div class="col-sm-6 col-sm-offset-3 text-center"></div>
-        </section>
-        <div class="row" id="section3">
+    </div>
+    <section class="bg-1">
+        <div class="col-sm-6 col-sm-offset-3 text-center"></div>
+    </section>
+    <section id="section3">
+        <div class="row">
             <div class="col-sm-10 col-sm-offset-1">
-
                 <h1>Profiel</h1>
 
                 <div class="col-sm-5">
                     <h3>VAES Burghard</h3>
+
                     <h4> Architect / Zaakvoerder </h4><br>
 
                     <p> Studies interieurvormgeving aan St-Lukas te Brussel &nbsp; (2004-2007)</p>
@@ -180,15 +181,14 @@
                     <p>Nominatie: Young architect award &nbsp;(2011)</p>
 
                     <p>Zelfstandig architect sinds 2011 &nbsp;(2011)</p>
-
                 </div>
-
-                <section>
-                    <div class="divider"></div>
-                </section>
             </div>
         </div>
-    </div>
+    </section>
+    <section>
+        <div class="divider"></div>
+    </section>
+
 
     <section class="bg-2">
         <div class="col-sm-6 col-sm-offset-3 text-center"></div>
@@ -197,37 +197,38 @@
         <div class="col-md-8 col-md-offset-1">
         </div>
     </div>
-    <div class="row" id="section4">
+    <section>
+        <div class="row" id="section4">
 
-        <div class="col-sm-10 col-sm-offset-1">
-            <h1>Locatie</h1>
-        </div>
+            <div class="col-sm-10 col-sm-offset-1">
+                <h1>Locatie</h1>
+            </div>
 
-        <div id="map-canvas"></div>
+            <div id="map-canvas"></div>
 
 
-        <div class="col-sm-8"></div>
-        <div class="col-sm-3 center-block">
+            <div class="col-sm-8"></div>
+            <div class="col-sm-3 center-block">
 
-            <address>
-                <h3>Burg Vaes Architecten</h3><br>
+                <address>
+                    <h3>Burg Vaes Architecten</h3><br>
         <span id="map-input">
         Eduard Branlystraat 6<br>
         1190 Vorst</span><br>
-            </address>
+                </address>
 
-            <address>Steenweg 139<br>
-                3540 Herk-de-Stad
-            </address>
-            0497/135700
-            <address>
-                <br>
-                <strong>stuur een mailtje</strong><br>
-                <a href="mailto:#">info@burgvaes.be</a>
-            </address>
+                <address>Steenweg 139<br>
+                    3540 Herk-de-Stad
+                </address>
+                0497/135700
+                <address>
+                    <br>
+                    <strong>stuur een mailtje</strong><br>
+                    <a href="mailto:#">info@burgvaes.be</a>
+                </address>
+            </div>
         </div>
-    </div>
-
+    </section>
     <!--
         <div class="modal" id="myModal" role="dialog">
             <div class="modal-dialog">
@@ -256,12 +257,14 @@
                 </div>
             </div>
         </div>-->
+
+
     <footer id="footer">
         <center><a href="#section1"><img src="css/images/LogoBW.jpg"></a></center>
     </footer>
 </div>
 
-
+</div>
 <!-- script references -->
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
