@@ -52,91 +52,105 @@
     <div class="divider"></div>
     <div class="bg-4" id="section2">
         <div class="container">
+            <h1>Projecten</h1>
+
             <div class="row">
-                <h1>Projecten</h1>
-                <hr>
-                <div class="col-sm-4 col-xs-6">
-
-                    <div class="panel panel-default">
-                        <div class="panel-thumbnail"><a href="#" title="Project 1"><img
-                                    src="css/images/1.jpg" class="img-responsive"></a></div>
-                        <div class="panel-body">
-                            <p></p>
-
-                            <p></p>
-
+                <div class="col-md-3">
+                    <div class="thumbnail">
+                        <div class="caption">
+                            <h4>woning Bert en Kelly</h4>
+                            <p><a href="" class="label label-danger" rel="tooltip" title="Zoom">naar het project</a>
                         </div>
-                    </div>
-                </div>
-                <div class="col-sm-4 col-xs-6">
-
-                    <div class="panel panel-default">
-                        <div class="panel-thumbnail"><a href="#" title="Project 2"><img
-                                    src="css/images/2.png" class="img-responsive"></a></div>
-                        <div class="panel-body">
-                            <p>project 1</p>
-
-                            <p></p>
-
-                        </div>
+                        <img src="css/images/BertenKelly.jpg" alt="...">
                     </div>
                 </div>
 
-                <div class="col-sm-4 col-xs-6">
-
-                    <div class="panel panel-default">
-                        <div class="panel-thumbnail"><a href="#" title="Project 3"><img
-                                    src="css/images/3.jpg" class="img-responsive"></a></div>
-                        <div class="panel-body">
-                            <p>project 3</p>
-
-                            <p></p>
-
+                <div class="row">
+                    <div class="col-md-3">
+                        <div class="thumbnail">
+                            <div class="caption">
+                                <h4>woning Burg en Ine</h4>
+                                <p><a href="" class="label label-danger" rel="tooltip" title="Zoom">naar het project</a>
+                            </div>
+                            <img src="css/images/Burgenine.jpg" alt="...">
                         </div>
                     </div>
-                </div>
 
-
-                <div class="col-sm-4 col-xs-6">
-
-                    <div class="panel panel-default">
-                        <div class="panel-thumbnail"><a href="#" title="Project 4"><img
-                                    src="css/images/4.png" class="img-responsive"></a></div>
-                        <div class="panel-body">
-                            <p>project 4</p>
-
-                            <p></p>
-
+                    <div class="row">
+                        <div class="col-md-3">
+                            <div class="thumbnail">
+                                <div class="caption">
+                                    <h4>woning Danny</h4>
+                                    <p><a href="" class="label label-danger" rel="tooltip" title="Zoom">naar het project</a>
+                                </div>
+                                <img src="css/images/Danny.jpg" alt="...">
+                            </div>
                         </div>
-                    </div>
-                </div>
-                <div class="col-sm-4 col-xs-6">
 
-                    <div class="panel panel-default">
-                        <div class="panel-thumbnail"><a href="#" title="Project 5"><img
-                                    src="css/images/5.jpg" class="img-responsive"></a></div>
-                        <div class="panel-body">
-                            <p>Project 5</p>
-
-                            <p></p>
-
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-4 col-xs-6">
-
-                    <div class="panel panel-default">
-                        <div class="panel-thumbnail"><a href="#" title="Project 6"><img
-                                    src="css/images/6.jpg" class="img-responsive"></a></div>
-                        <div class="panel-body">
-                            <p>Project 6</p>
-
-                            <p>Project 6</p>
+                        <div class="row">
+                            <div class="col-md-3">
+                                <div class="thumbnail">
+                                    <div class="caption">
+                                        <h4>woning Dries en Sarina</h4>
+                                        <p><a href="" class="label label-danger" rel="tooltip" title="Zoom">naar het project</a>
+                                    </div>
+                                    <img src="css/images/DriesenSarina.jpg" alt="...">
+                                </div>
+                            </div>
 
                         </div>
                     </div>
                 </div>
             </div>
+            <div class="row">
+                <div class="col-md-3">
+                    <div class="thumbnail">
+                        <div class="caption">
+                            <h4>woning Jerry en Uschi</h4>
+                            <p><a href="" class="label label-danger" rel="tooltip" title="Zoom">naar het project</a>
+                        </div>
+                        <img src="css/images/JerryenUschi.JPG" alt="...">
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-3">
+                        <div class="thumbnail">
+                            <div class="caption">
+                                <h4>woning Ronald en Simone</h4>
+                                <p><a href="" class="label label-danger" rel="tooltip" title="Zoom">naar het project</a>
+                            </div>
+                            <img src="css/images/RonaldenSimone.JPG" alt="...">
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-3">
+                            <div class="thumbnail">
+                                <div class="caption">
+                                    <h4>woning Toon en Sara</h4>
+                                    <p><a href="" class="label label-danger" rel="tooltip" title="Zoom">naar het project</a>
+                                </div>
+                                <img src="css/images/ToonenSara.jpg" alt="...">
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-3">
+                                <div class="thumbnail">
+                                    <div class="caption">
+                                        <h4>vrije ontwerpen</h4>
+                                        <p><a href="" class="label label-danger" rel="tooltip" title="Zoom">naar het project</a>
+                                    </div>
+                                    <img src="css/images/Trailanderror.jpg" alt="...">
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
         </div>
     </div>
 
@@ -211,7 +225,7 @@
         </div>
     </div>
 
-
+<!--
     <div class="modal" id="myModal" role="dialog">
         <div class="modal-dialog">
             <div class="modal-content">
@@ -238,7 +252,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div>-->
     <footer id="footer">
         <center><a href="#section1"><img src="css/images/LogoBW.jpg"></a></center>
     </footer>
@@ -264,6 +278,16 @@
         $("a").click(function () {
             return $("html, body").animate({scrollTop: $($(this).attr("href")).offset().top}, 300), !1
         });
+        $("[rel='tooltip']").tooltip();
+
+        $('.thumbnail').hover(
+            function(){
+                $(this).find('.caption').fadeIn(250); //.fadeIn(250)
+            },
+            function(){
+                $(this).find('.caption').fadeOut(250); //.fadeOut(205)
+            }
+        );
     });
 
 </script>
