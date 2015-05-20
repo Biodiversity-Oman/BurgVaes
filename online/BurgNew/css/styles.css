@@ -21,20 +21,10 @@ body {
         overflow: visible;
         margin: auto;
         position: absolute;
-        top: 0; left: 0; bottom: 0; right: 0;
+        top: 10%; left: 0; bottom: 0; right: 0;
     }
 }
 
-/* Wrapper for page content to push down footer */
-#wrap {
-    min-height: 100%;
-    height: auto !important;
-    height: 100%;
-    /* Negative indent footer by its height */
-    margin: 0 auto -60px;
-    /* Pad bottom by footer height */
-    padding: 0 0 60px;
-}
 
 /* Set the fixed height of the footer here */
 #footer {
@@ -59,13 +49,6 @@ body {
     z-index: -1;
 }
 
-.header-img {
-    posit-on: absolute;
-    top: 0;
-    left: 0;
-    min-width: 100%;
-    height: 600px;
-}
 
 .header-font{
     font-family: 'Wire One', sans-serif;
@@ -74,13 +57,6 @@ body {
     line-height:1em;
 }
 
-#wrap > .container {
-    padding: 60px 15px 0;
-}
-
-.container .credit {
-    margin: 20px 0;
-}
 
 #footer {
     background-color: #414141;
@@ -99,21 +75,13 @@ h1 {
     font-size: 50px;
 }
 
-.logo {
-    font-size: 40px;
-    font-family: Helvetica, Arial, sans-serif;
-    position: absolute;
-    color: #333;
-    top: 70px;
-    text-align: center;
-    width: 100%;
+#custom-nav {
+    -webkit-box-shadow: 20px 20px 20px #222222;
+    -moz-box-shadow:    20px 20px 20px #222222;
+    box-shadow:         20px 20px 20px #222222;
+    z-index:999;
 }
 
-#nav {
-    width: 100%;
-    position: static;
-    top: -32px;
-}
 
 #nav.affix {
     position: fixed;
@@ -121,43 +89,11 @@ h1 {
     -webkit-transition: all .6s ease-in-out;
 }
 
-#footer > .container {
-
-}
 
 @media (min-width: 767px) {
     .navbar-nav.nav-justified > li {
         float: none;
     }
-}
-
-.navbar-nav {
-    margin: 1px 1px;
-}
-
-/* customize nav style */
-.navbar-custom {
-    background-color: #2e2e2e;
-    font-weight: 700;
-    text-transform: uppercase;
-    border-width: 0;
-}
-
-.navbar-custom .navbar-nav > li > a {
-    color: #ddd;
-}
-
-.navbar-custom .dropdown-menu li > a:hover {
-    color: #eee;
-}
-
-.navbar-custom .navbar-nav li > a:hover, .navbar-nav li .open, .navbar-custom .navbar-nav .active a {
-    background-color: #000;
-}
-
-.navbar-custom .navbar-nav > .dropdown > a .caret {
-    border-top-color: #999;
-    border-bottom-color: #999;
 }
 
 .navbar-collapse.in {

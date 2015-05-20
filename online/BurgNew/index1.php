@@ -27,7 +27,7 @@
         </div>
     </div>
 </header>
-    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation" id="custom-nav">
         <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse"
                     data-target=".navbar-collapse">
@@ -42,52 +42,15 @@
         <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav navbar-static-top  navbar-right">
                 <li><a href="#section1">home</a></li>
-                <li><a href="#section2">profile</a></li>
-                <li><a href="#section3">projecten</a></li>
+                <li><a href="#section2">projecten</a></li>
+                <li><a href="#section3">profile</a></li>
                 <li><a href="#section4">contact</a></li>
             </ul>
         </div>
     </nav>
 
     <div class="divider"></div>
-    <div class="row" id="section2">
-        <div class="col-sm-10 col-sm-offset-1">
-            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h1>Profiel</h1>
-                <hr>
-                <div class="col-sm-5">
-                    <h3>VAES Burghard</h3>
-                    <h4> Architect / Zaakvoerder </h4><br>
-
-                    <p> Studies interieurvormgeving aan St-Lukas te Brussel &nbsp; (2004-2007)</p>
-
-                    <p> Studies architectuur aan St-Lukas te Brussel &nbsp; (2007-2011)</p>
-
-                    <p>Studies architectuur aan St-Lukas te Brussel &nbsp; (2007-2011)</p>
-
-                    <p>Nominatie: Young architect award &nbsp;(2011)</p>
-
-                    <p>Zelfstandig architect sinds 2011 &nbsp;(2011)</p>
-
-                </div>
-                <div class="col-sm-2"></div>
-
-                <div class="col-sm-5">
-                    <img src="css/images/burg.jpg" class="img-responsive pull-right burg">
-                </div>
-            </div>
-            <section>
-                <div class="divider"></div>
-            </section>
-        </div>
-
-
-    </div>
-    <section class="bg-1">
-        <div class="col-sm-6 col-sm-offset-3 text-center"></div>
-    </section>
-
-    <div class="bg-4" id="section3">
+    <div class="bg-4" id="section2">
         <div class="container">
             <div class="row">
                 <h1>Projecten</h1>
@@ -176,6 +139,37 @@
             </div>
         </div>
     </div>
+
+    <section class="bg-1">
+        <div class="col-sm-6 col-sm-offset-3 text-center"></div>
+    </section>
+    <div class="row" id="section3">
+        <div class="col-sm-10 col-sm-offset-1">
+
+            <h1>Profiel</h1>
+            <hr>
+            <div class="col-sm-5">
+                <h3>VAES Burghard</h3>
+                <h4> Architect / Zaakvoerder </h4><br>
+
+                <p> Studies interieurvormgeving aan St-Lukas te Brussel &nbsp; (2004-2007)</p>
+
+                <p> Studies architectuur aan St-Lukas te Brussel &nbsp; (2007-2011)</p>
+
+                <p>Studies architectuur aan St-Lukas te Brussel &nbsp; (2007-2011)</p>
+
+                <p>Nominatie: Young architect award &nbsp;(2011)</p>
+
+                <p>Zelfstandig architect sinds 2011 &nbsp;(2011)</p>
+
+            </div>
+
+            <section>
+                <div class="divider"></div>
+            </section>
+        </div>
+    </div>
+
 
     <section class="bg-2">
         <div class="col-sm-6 col-sm-offset-3 text-center"></div>
