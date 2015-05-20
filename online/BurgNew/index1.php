@@ -27,7 +27,7 @@
         </div>
     </div>
 </header>
-    <nav class="navbar navbar-default navbar-fixed-top" role="navigation" id="custom-nav">
+    <nav class="navbar navbar-default navbar-static-top" role="navigation" id="custom-nav">
         <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse"
                     data-target=".navbar-collapse">
@@ -251,17 +251,19 @@
 <script src="http://maps.googleapis.com/maps/api/js?sensor=false&extension=.js&output=embed"></script>
 <script src="js/scripts.js"></script>
 <script>
-    $("a").click(function () {
-        return $("html, body").animate({scrollTop: $($(this).attr("href")).offset().top}, 300), !1
-    });
-    $(document).scroll(function(e){
-        var scrollTop = $(document).scrollTop();
-        if(scrollTop > 0){
-            console.log(scrollTop);
-            $('.navbar').removeClass('navbar-static-top').addClass('navbar-fixed-top');
-        } else {
-            $('.navbar').removeClass('navbar-fixed-top').addClass('navbar-static-top');
-        }
+    $(document).ready(function(){
+        $(document).scroll(function (e) {
+            var scrollTop = $(document).scrollTop();
+            if (scrollTop > 0) {
+                console.log(scrollTop);
+                $('.navbar').removeClass('navbar-static-top').addClass('navbar-fixed-top');
+            } else {
+                $('.navbar').removeClass('navbar-fixed-top').addClass('navbar-static-top');
+            }
+        });
+        $("a").click(function () {
+            return $("html, body").animate({scrollTop: $($(this).attr("href")).offset().top}, 300), !1
+        });
     });
 
 </script>
