@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="283904df-e256-4794-afd3-765d4c120e3a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BurgNew/css/images/BertenKelly.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BurgNew/css/images/Burgenine.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BurgNew/css/images/Danny.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BurgNew/css/images/DriesenSarina.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BurgNew/css/images/JerryenUschi.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BurgNew/css/images/RonaldenSimone.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BurgNew/css/images/ToonenSara.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BurgNew/css/images/Trailanderror.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BurgNew/css/images/BertenKelly.jpg" afterPath="$PROJECT_DIR$/BurgNew/css/images/BertenKelly.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BurgNew/css/images/Burgenine.jpg" afterPath="$PROJECT_DIR$/BurgNew/css/images/Burgenine.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BurgNew/css/images/Danny.jpg" afterPath="$PROJECT_DIR$/BurgNew/css/images/Danny.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BurgNew/css/images/DriesenSarina.jpg" afterPath="$PROJECT_DIR$/BurgNew/css/images/DriesenSarina.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BurgNew/css/images/JerryenUschi.JPG" afterPath="$PROJECT_DIR$/BurgNew/css/images/JerryenUschi.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BurgNew/css/images/RonaldenSimone.JPG" afterPath="$PROJECT_DIR$/BurgNew/css/images/RonaldenSimone.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BurgNew/css/images/ToonenSara.jpg" afterPath="$PROJECT_DIR$/BurgNew/css/images/ToonenSara.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BurgNew/css/images/Trailanderror.jpg" afterPath="$PROJECT_DIR$/BurgNew/css/images/Trailanderror.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BurgNew/index1.php" afterPath="$PROJECT_DIR$/BurgNew/index1.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BurgNew/css/styles.css" afterPath="$PROJECT_DIR$/BurgNew/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -40,8 +40,8 @@
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BurgNew/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="2945" max-vertical-offset="3808">
-              <caret line="197" column="6" selection-start-line="197" selection-start-column="6" selection-end-line="197" selection-end-column="6" />
+            <state vertical-scroll-proportion="31.034483" vertical-offset="2549" max-vertical-offset="4012">
+              <caret line="97" column="20" selection-start-line="97" selection-start-column="20" selection-end-line="97" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -60,8 +60,8 @@
       <file leaf-file-name="index1.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BurgNew/index1.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.14356436" vertical-offset="1006" max-vertical-offset="5100">
-              <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.41759604" vertical-offset="2111" max-vertical-offset="5151">
+              <caret line="144" column="30" selection-start-line="144" selection-start-column="30" selection-end-line="144" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -77,8 +77,8 @@
       <list>
         <option value="$PROJECT_DIR$/assets/css/magister.css" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/BurgNew/css/styles.css" />
         <option value="$PROJECT_DIR$/BurgNew/try.php" />
+        <option value="$PROJECT_DIR$/BurgNew/css/styles.css" />
         <option value="$PROJECT_DIR$/BurgNew/index1.php" />
       </list>
     </option>
@@ -489,14 +489,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BurgNew/try.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="1853">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="67" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/block.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6257242" vertical-offset="3285" max-vertical-offset="4301">
@@ -505,18 +497,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/BurgNew/try.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="1853">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="67" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/BurgNew/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2945" max-vertical-offset="3808">
-          <caret line="197" column="6" selection-start-line="197" selection-start-column="6" selection-end-line="197" selection-end-column="6" />
+        <state vertical-scroll-proportion="31.034483" vertical-offset="2549" max-vertical-offset="4012">
+          <caret line="97" column="20" selection-start-line="97" selection-start-column="20" selection-end-line="97" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BurgNew/index1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14356436" vertical-offset="1006" max-vertical-offset="5100">
-          <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.41759604" vertical-offset="2111" max-vertical-offset="5151">
+          <caret line="144" column="30" selection-start-line="144" selection-start-column="30" selection-end-line="144" selection-end-column="30" />
           <folding />
         </state>
       </provider>
