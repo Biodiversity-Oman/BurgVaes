@@ -4,15 +4,9 @@
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
     <title>Burg Vaes Arcitecten</title>
-    <
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="//cdnjs.cloudflare.com/ajax/libs/animate.css/3.0.0/animate.min.css" rel="stylesheet" type="text/css">
-    <!-- all these references goes before the closing body tag-->
-    <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
-    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
-    <script src="//cdn.jsdelivr.net/stickynavbar.js/1.2.0/jquery.stickyNavbar.min.js"></script>
     <!--[if lt IE 9]>
     <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -25,7 +19,6 @@
     <div class="first-container ">
         <div class="v-center">
             <h1 class="text-center header-font"><b>Burg Vaes</b></h1>
-
             <h2 class="text-center header-font">Architecten voor uw Huis</h2>
 
             <h3 class="text-center"> Ook wij bouwen ... aan onze nieuwe website</h3>
@@ -261,5 +254,10 @@
 <script src="js/bootstrap.min.js"></script>
 <script src="http://maps.googleapis.com/maps/api/js?sensor=false&extension=.js&output=embed"></script>
 <script src="js/scripts.js"></script>
+<script>
+    $("a").click(function () {
+        return $("html, body").animate({scrollTop: $($(this).attr("href")).offset().top}, 300), !1
+    });
+</script>
 </body>
 </html>
