@@ -21,9 +21,15 @@
     <header>
         <div class="first-container " id="section1">
             <div class="v-center">
-                <h1 class="text-center header-font">Architectenbureau Burg Vaes</h1>
 
-                <h3 class="text-center header-font-sub ">Architecten voor uw Huis</h3>
+                <div class="row">
+                    <div class="col-md-2 col-centered text-center">
+                        <img src="css/images/LogoBW.jpg" class="img-responsive"">
+                    </div>
+                    <h1 class="text-center header-font">Architectenbureau Burg Vaes</h1>
+                    <h3 class="text-center header-font-sub ">Architecten voor uw Huis</h3>
+                </div>
+
 
             </div>
         </div>
@@ -32,6 +38,7 @@
         <a class="navbar-brand pull-right" href="#section1">
             <img src="css/images/logoNav.png" id="nav-logo">
         </a>
+
         <div class="navbar-header">
 
             <button type="button" class="navbar-toggle" data-toggle="collapse"
@@ -156,32 +163,123 @@
                         </div>
                     </div>
                 </div>
+
+            </div>
         </section>
-    </div>
-    <section class="bg-1">
-        <div class="col-sm-6 col-sm-offset-3 text-center"></div>
-    </section>
-    <section id="section3">
-        <div class="row">
-            <div class="col-sm-10 col-sm-offset-1">
-                <h2 class="text-center">Info</h2>
+        <section class="bg-1">
+            <div class="col-sm-6 col-sm-offset-3 text-center"></div>
+        </section>
+        <section id="section3">
+            <div class="row">
+                <div class="row">
+                    <div class="container">
+                        <h2 class="text-center">Burg Vaes </h2>
 
-                <div class="col-sm-5">
-                    <h3>Burg Vaes</h3>
+<!--                        <h3 class="text-center">Burg Vaes</h3>-->
 
-                    <h4> Architect / Zaakvoerder </h4><br>
+                        <div class="col-lg-4  ">
 
-                    <p> Studies interieurvormgeving aan St-Lukas te Brussel &nbsp; (2004-2007)</p>
 
-                    <p> Studies architectuur aan St-Lukas te Brussel &nbsp; (2007-2011)</p>
+                            <ul>
+                                <li><h5> Architect / Zaakvoerder </h5></li>
+                                <li></li>
+                                <li>Master in de architectuur</li>
 
-                    <p>Nominatie: Young architect award &nbsp;(2011)</p>
+                                <li>Master in de architectuur</li>
 
-                    <p>Zelfstandig architect sinds 2011 &nbsp;(2011)</p>
+                                <li> Campus Sint-Lucas Brussel, Faculteit architectuur.</li>
+
+                                <li> Afgestudeerd met onderscheiding 2009-2011</li>
+
+                                <li>Schakelprogramma van interieurvormgeving naar architectuur
+                                    Campus Sint-Lucas Brussel, Faculteit architectuur.
+                                    2007-2009
+                                </li>
+
+                                <li> Bachelor interieurvormgeving</li>
+
+                                <li> Hogeschool Sint-Lukas Brussel 2004-2007</li>
+                            </ul>
+                        </div>
+                        <div class="col-lg-4">
+
+
+                            <h5>Architectenbureau Burg Vaes</h5>
+                            <h6>Sinds januari 2014</h6>
+
+                            <ul>
+                                <li>werk:</li>
+                                <li> 3 nieuwbouwwoningen voor particiulieren // ontwerp, bouwaanvraag, uitvoering</li>
+                                <li> 9 renovaties voor particulieren // ontwerp, bouwaanvraag, uitvoering</li>
+                                <li> 1 meergezinswoning voor particulier // ontwerp, bouwaanvraag</li>
+                                <li> 1 kangoeroewoning voor particulier // ontwerp</li>
+                            </ul>
+
+                        </div>
+                        <div class="col-lg-4">
+
+                            <h5>Stage als architect bij Axis Architecten & ingenieurs</h5>
+                            <h6>September 2012 tem december 2013</h6>
+                            <ul>
+                                <li>werk:</li>
+                                <li> 1 jeugdcentrum // ontwerp tot bouwaanvraag</li>
+                                <li> 1 sociale woonwijk // werfopvolging</li>
+                                <li> 1 magazijn- en kantoorgebouw // werfopvolging</li>
+                                <li> 1 zorgcentrum // werfopvolging</li>
+                            </ul>
+                        </div>
+
+                    </div>
+                </div>
+                <br>
+                <div class="row">
+                    <div class="container">
+                        <div class="col-lg-4">
+
+                            <h5> Stage als architect bij studiebureau Rimanque</h5>
+                            <h6> November 2011 tot september 2012</h6>
+                            <ul>
+                                <li>werk:</li>
+                                <li>2 meergezinswoningen // bouwaanvraag</li>
+                                <li> 1 school basisonderwijs // uitvoeringsplannen</li>
+                                <li> 1 nieuwbouwwoning // ontwerp</li>
+                                <li> 1 renovatie eengezinswoning // bouwaanvraag</li>
+                                <li> 2 industrielen gebouwen // ontwerp, bouwaanvraag</li>
+                                <li> 1 interieuropdracht // ontwerp, werf, uitgevoerd</li>
+                            </ul>
+
+                        </div>
+
+                        <div class="col-lg-4">
+
+
+                            <h5>Stage als interieurvormgever bij Quinze and Milan</h5>
+                            <h6>Juni-juli 2006</h6>
+                            <ul>
+                                <li>werk:</li>
+                                <li>1 interieuropdracht voor inrichting van een apotheek // ontwerp,
+                                    uitvoeringsplannen
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col-lg-4">
+
+                            <h5>Handgemaakte tafel voor Design Brussels: Table Talks, onderleiding van Giovanna
+                                Massoni</h5>
+                            <h6>Juni-november 2007</h6>
+                            <ul>
+                                <li>werk:</li>
+                                <li> Ontwerp en eigenhandige uitvoering van een tafel tentoongesteld op de beurs ‘design
+                                    Brussels’.
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
                 </div>
             </div>
-        </div>
-    </section>
+        </section>
+    </div>
+
     <section>
         <div class="divider"></div>
     </section>
@@ -214,9 +312,9 @@
         3540 Herk-de-Stad</span><br>
                 </address>
 
-                    <strong>stuur een mailtje</strong><br>
-                    <a href="mailto:#">info@burgvaes.be</a>
-                </address>
+                <strong>stuur een mailtje</strong><br>
+                <a href="mailto:#">info@burgvaes.be</a>
+
             </div>
         </div>
     </section>
@@ -253,7 +351,7 @@
     <footer id="footer">
         <center><a href="#section1"><img src="css/images/LogoBW.jpg"></a></center>
     </footer>
-</div>
+
 
 </div>
 <!-- script references -->
@@ -266,7 +364,6 @@
         $(document).scroll(function (e) {
             var scrollTop = $(document).scrollTop();
             if (scrollTop > 0) {
-                console.log(scrollTop);
                 $('.navbar').removeClass('navbar-static-top').addClass('navbar-fixed-top');
             } else {
                 $('.navbar').removeClass('navbar-fixed-top').addClass('navbar-static-top');

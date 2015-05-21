@@ -103,6 +103,18 @@ h4 {
     margin: 5% 0% 5% 0%;
 }
 
+h5 {
+    font-size: 15px;
+    font-family: Courier, "Courier New", monospace;
+
+}
+
+h6 {
+    font-size: 10px;
+    font-family: Courier, "Courier New", monospace;
+
+}
+
 #custom-nav {
     opacity: 0.8;
     -webkit-box-shadow: 20px 20px 20px #222222;
@@ -185,7 +197,7 @@ section {
 }
 
 .bg-1 {
-    background: url('images/architect-%20bg.jpg') no-repeat center center fixed;
+    background: url('images/homepage3D.jpg') no-repeat center center fixed;
     min-height: 400px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -262,4 +274,18 @@ section {
     box-shadow:0;
     border-radius:0;
     padding: 0px;
+}
+
+ul {
+    list-style-position: inside;
+    padding-left:0;
+}
+
+ul li {
+    list-style: none;
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
 }
