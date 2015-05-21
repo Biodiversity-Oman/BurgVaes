@@ -21,16 +21,14 @@
     <header>
         <div class="first-container " id="section1">
             <div class="v-center">
-
                 <div class="row">
-                    <div class="col-md-2 col-centered text-center">
-                        <img src="css/images/LogoBW.jpg" class="img-responsive"">
+                    <div class="col-xs-4 col-xs-offset-4">
+                        <img src="css/images/logo-wit-start.png" class="center-block img-responsive"">
+
+                        <h1 class="text-center header-font">Burg Vaes</h1>
+                        <h1 class="text-center header-font">Architecten</h1>
                     </div>
-                    <h1 class="text-center header-font">Architectenbureau Burg Vaes</h1>
-                    <h3 class="text-center header-font-sub ">Architecten voor uw Huis</h3>
                 </div>
-
-
             </div>
         </div>
     </header>
@@ -349,7 +347,7 @@
 
 
     <footer id="footer">
-        <center><a href="#section1"><img src="css/images/LogoBW.jpg"></a></center>
+        <center><a href="#section1"><img src="css/images/logo-wit.png"></a></center>
     </footer>
 
 
