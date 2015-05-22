@@ -152,27 +152,6 @@ nav ul li{
     }
 }
 
-#map-canvas {
-    width: 100%;
-    height: 300px;
-    margin: 0;
-    background-color: #ffffff;
-}
-
-.scroll-top {
-    position: fixed;
-    bottom: 0;
-    right: 6%;
-    z-index: 100;
-    background: #f2f3f2;
-    font-size: 24px;
-    border-top-left-radius: 3px;
-    border-top-right-radius: 3px;
-}
-
-.scroll-top a:link, .scroll-top a:visited {
-    color: #222;
-}
 
 section {
     color: #ffffff;
@@ -224,6 +203,12 @@ section {
 }
 .btn-material-white:hover {
     background-color: #DDDDDD;
+}
+
+.btn-material-yellow {
+    background-color: #ffc107;
+    color: #ffffff;
+    margin-bottom: 1em;
 }
 .first-container{
     min-height: 100vh;
@@ -295,4 +280,8 @@ ul li {
     position: absolute;
     top: 0; left: 0; bottom: 0; right: 0;
 
+}
+
+#notFound{
+    font-size: x-large;
 }
