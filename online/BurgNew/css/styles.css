@@ -16,18 +16,10 @@ body {
     margin-right: 0px;
 }
 
-@media (min-width:768px) {
-    .v-center {
-        height: 70%;
-        overflow: visible;
-        margin: auto;
-        position: absolute;
-        top: 10%; left: 0; bottom: 0; right: 0;
-    }
-}
 
 
-/* Set the fixed height of the footer here */
+
+
 #footer {
     height: 80px;
     background-color: #f5f5f5;
@@ -36,12 +28,6 @@ body {
     padding-bottom: 20px;
 }
 
-/* Custom page CSS
--------------------------------------------------- */
-/* CUSTOMIZE THE NAVBAR
--------------------------------------------------- */
-
-/* Special class on .container surrounding .navbar, used for positioning it into place. */
 .navbar-wrapper {
     position: absolute;
     top: 0;
@@ -120,7 +106,7 @@ h6 {
     -webkit-box-shadow: 20px 20px 20px #222222;
     -moz-box-shadow:    20px 20px 20px #222222;
     box-shadow:         20px 20px 20px #222222;
-   
+
 }
 
 #nav-logo{
@@ -197,7 +183,7 @@ section {
 }
 
 .bg-1 {
-    background: url('images/homepage3D.jpg') no-repeat center center fixed;
+    background: url('images/A2D.png') no-repeat center center fixed;
     min-height: 400px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -205,7 +191,7 @@ section {
     background-size: cover;
 }
 .bg-2 {
-    background: url('images/architect-bg2.jpg') no-repeat center center fixed;
+    background: url('images/A2C.png') no-repeat center center fixed;
     min-height: 400px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -234,14 +220,15 @@ section {
 }
 .first-container{
     min-height: 100vh;
-    background: url("images/homepageC.jpg") no-repeat center center fixed;;
-    background-repeat: no-repeat;
-    background-size:contain;
-    background-position:center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+    background-color: #ffffff;
+    /*background: url("images/Homepagetest.jpg") no-repeat center center fixed;;*/
+    /*background-repeat: no-repeat;*/
+    /*background-size:contain;*/
+    /*background-position:center;*/
+    /*-webkit-background-size: cover;*/
+    /*-moz-background-size: cover;*/
+    /*-o-background-size: cover;*/
+    /*background-size: cover;*/
 }
 
 .burg{
@@ -288,4 +275,15 @@ ul li {
 .col-centered{
     float: none;
     margin: 0 auto;
+}
+
+.font-big{
+    font-size: 1.1em;
+}
+
+.absolute-center {
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+    overflow: auto;
 }

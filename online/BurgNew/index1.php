@@ -6,30 +6,21 @@
     <title>Burg Vaes Arcitecten</title>
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="keywords" content="burg, burghard, vaes, burg vaes, architect,alken, sint-lucas, sint-lukas, " />
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <!--[if lt IE 9]>
     <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
     <link href="css/styles.css" rel="stylesheet">
-    <!--    <link href='http://fonts.googleapis.com/css?family=Wire+One' rel='stylesheet' type='text/css'>-->
-    <link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
 
 </head>
 <body>
 <div id="wrapper">
     <header>
         <div class="first-container " id="section1">
-            <div class="v-center">
-                <div class="row">
-                    <div class="col-xs-4 col-xs-offset-4">
-                        <img src="css/images/logo-wit-start.png" class="center-block img-responsive"">
 
-                        <h1 class="text-center header-font">Burg Vaes</h1>
-                        <h1 class="text-center header-font">Architecten</h1>
-                    </div>
-                </div>
-            </div>
+                <img src="css/images/Homepagetest.jpg" class="img-responsive absolute-center">
+
         </div>
     </header>
     <nav class="navbar navbar-default navbar-static-top" role="navigation" id="custom-nav">
@@ -64,8 +55,6 @@
         <section>
             <div class="row">
                 <div class="col-sm-10 col-sm-offset-1">
-                    <h2 class="text-center">Projecten</h2>
-
                     <div class="col-lg-3">
                         <div class="thumbnail">
                             <div class="caption">
@@ -168,21 +157,14 @@
             <div class="col-sm-6 col-sm-offset-3 text-center"></div>
         </section>
         <section id="section3">
-            <div class="row">
+            <div class="row font-big">
                 <div class="row">
                     <div class="container">
                         <h2 class="text-center">Burg Vaes </h2>
-
-<!--                        <h3 class="text-center">Burg Vaes</h3>-->
-
                         <div class="col-lg-4  ">
-
-
                             <ul>
                                 <li><h5> Architect / Zaakvoerder </h5></li>
                                 <li></li>
-                                <li>Master in de architectuur</li>
-
                                 <li>Master in de architectuur</li>
 
                                 <li> Campus Sint-Lucas Brussel, Faculteit architectuur.</li>
@@ -203,7 +185,7 @@
 
 
                             <h5>Architectenbureau Burg Vaes</h5>
-                            <h6>Sinds januari 2014</h6>
+                            <h6>Sinds januari 2012</h6>
 
                             <ul>
                                 <li>werk:</li>
@@ -301,12 +283,12 @@
 
 
             <div class="col-sm-8"></div>
-            <div class="col-sm-3 center-block">
+            <div class="col-sm-3 center-block font-big">
 
                 <address>
                     <h3>Burg Vaes Architecten</h3><br>
         <span id="map-input">
-        Steenweg 139<br>
+        Steenweg 137<br>
         3540 Herk-de-Stad</span><br>
                 </address>
 
