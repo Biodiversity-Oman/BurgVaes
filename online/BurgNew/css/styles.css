@@ -1,9 +1,7 @@
-/*@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700,600);*/
 
 html,
 body {
     height: 100%;
-    /* The html and body elements cannot have any padding or margin. */
     -webkit-font-smoothing: antialiased;
     font-family: Courier, "Courier New", monospace;
     font-size: 0.8em ;
@@ -158,7 +156,7 @@ nav ul li{
     width: 100%;
     height: 300px;
     margin: 0;
-    padding: 15px;
+    background-color: #ffffff;
 }
 
 .scroll-top {
@@ -198,6 +196,15 @@ section {
     -o-background-size: cover;
     background-size: cover;
 }
+
+.bg-3 {
+    background: url('images/locatieA.png') no-repeat center center fixed;
+    min-height: 400px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
 .panel .img-responsive {
     min-height: 270px;
     max-height: 270px;
@@ -221,14 +228,12 @@ section {
 .first-container{
     min-height: 100vh;
     background-color: #ffffff;
-    /*background: url("images/Homepagetest.jpg") no-repeat center center fixed;;*/
-    /*background-repeat: no-repeat;*/
-    /*background-size:contain;*/
-    /*background-position:center;*/
-    /*-webkit-background-size: cover;*/
-    /*-moz-background-size: cover;*/
-    /*-o-background-size: cover;*/
-    /*background-size: cover;*/
+}
+
+.map-container{
+    min-height: 300px;
+    width: 100%;
+    background-color: #ffffff;
 }
 
 .burg{
@@ -279,6 +284,10 @@ ul li {
 
 .font-big{
     font-size: 1.1em;
+}
+
+#mail-mij{
+    color: #ffffff;
 }
 
 .absolute-center {

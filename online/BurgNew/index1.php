@@ -275,32 +275,41 @@
     <div class="col-md-8 col-md-offset-1">
     </div>
 </div>
-<section>
-    <div class="row" id="section4">
+
+<div class="row" id="section4">
+    <section>
 
         <div class="col-sm-10 col-sm-offset-1">
             <h2 class="text-center">Locatie</h2>
         </div>
 
-        <div id="map-canvas"></div>
 
-
-        <div class="col-sm-8"></div>
-        <div class="col-sm-3 center-block font-big">
-
-            <address>
-                <h3>Burg Vaes Architecten</h3><br>
-        <span id="map-input">
-        Steenweg 137<br>
-        3540 Herk-de-Stad</span><br>
-            </address>
-
-            <strong>stuur een mailtje</strong><br>
-            <a href="mailto:#">info@burgvaes.be</a>
-
-        </div>
-    </div>
+</div>
+<div class="map-container">
+    <img src="css/images/locatieA.png" class="img-responsive center-block">
+</div>
 </section>
+<section>
+    <div class="row">
+        <div class="col-sm-4">
+        </div>
+        <div class="col-sm-4"></div>
+        <div class="col-sm-4">
+            <ul>
+                <li><h3>Burg Vaes Architecten</h3><br></li>
+
+                <li><h5>Steenweg 137</h5></li>
+                <li><h5>3540 Herk-de-Stad</h5></li>
+                <li></li>
+                <li><a id="mail-mij" href="mailto:#"></li>
+                <li><h4>info@burgvaes.be</h4></a></li>
+                <li><a href="https://www.facebook.com/burg.vaes?pnref=story"> <img src="css/images/facebook-iconA.png" class="img-responsive text-center"></a></li>
+            </ul>
+        </div>
+
+</section>
+</div>
+
 <!--
     <div class="modal" id="myModal" role="dialog">
         <div class="modal-dialog">
@@ -337,11 +346,9 @@
 
 
 </div>
-<!-- script references -->
-<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
-<script src="http://maps.googleapis.com/maps/api/js?sensor=false&extension=.js&output=embed"></script>
 <script src="js/scripts.js"></script>
+<script src="js/jquery.min.js"></script>
 <script>
     $(document).ready(function () {
         $(document).scroll(function (e) {
