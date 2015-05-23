@@ -5,8 +5,8 @@ body {
     -webkit-font-smoothing: antialiased;
     font-family: Courier, "Courier New", monospace;
     font-size: 0.8em ;
-    background: #333;
-    color: #ffffff;
+    background-color: #ffffff;
+    color: #000000;
 }
 
 .row {
@@ -20,7 +20,7 @@ body {
 
 #footer {
     height: 80px;
-    background-color: #f5f5f5;
+    background-color: #000000;
     margin-top: 5px;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -54,41 +54,41 @@ body {
 }
 
 #footer {
-    background-color: #414141;
+    background-color: #ffffff;
 }
 
 
 header {
-    background: #333;
-    color: #ffffff;
+    background-color: #ffffff;
+    color: #000000;
 }
 
 h1 {
-    font-size: 1.2em;
+    font-size: 18px;
     font-family: Courier, "Courier New", monospace;
     margin: 5% 0% 5% 0%;
 }
 
 h2 {
-    font-size: 35px;
+    font-size: 16px;
     font-family: Courier, "Courier New", monospace;
     margin: 5% 0% 5% 0%;
 }
 
 h3 {
-    font-size: 30px;
+    font-size: 14px;
     font-family: Courier, "Courier New", monospace;
     margin: 5% 0% 5% 0%;
 }
 
 h4 {
-    font-size: 20px;
+    font-size: 12px;
     font-family: Courier, "Courier New", monospace;
     margin: 5% 0% 5% 0%;
 }
 
 h5 {
-    font-size: 15px;
+    font-size: 10px;
     font-family: Courier, "Courier New", monospace;
 
 }
@@ -104,6 +104,14 @@ h6 {
     -webkit-box-shadow: 20px 20px 20px #222222;
     -moz-box-shadow:    20px 20px 20px #222222;
     box-shadow:         20px 20px 20px #222222;
+
+}
+
+#custom-nav2 {
+    opacity: 0.8;
+    -webkit-box-shadow: 10px 10px 10px #222222;
+    -moz-box-shadow:    10px 10px 10px #222222;
+    box-shadow:         10px 10px 10px #222222;
 
 }
 
@@ -154,7 +162,7 @@ nav ul li{
 
 
 section {
-    color: #ffffff;
+    color: #000000;
     height: auto !important;
     padding-top: 100px;
 }
@@ -206,8 +214,8 @@ section {
 }
 
 .btn-material-yellow {
-    background-color: #ffc107;
-    color: #ffffff;
+    background-color: #FFFF00;
+    color: #000000;
     margin-bottom: 1em;
 }
 .first-container{
@@ -242,7 +250,7 @@ section {
     padding:2%;
     display: none;
     text-align:center;
-    color:#fff !important;
+    color:#000000 !important;
     z-index:2;
 }
 
@@ -272,7 +280,7 @@ ul li {
 }
 
 #mail-mij{
-    color: #ffffff;
+    color: #000000;
 }
 
 .absolute-center {
@@ -299,11 +307,12 @@ carousel
 }
 
 .carousel-indicators li{
-    background-color: #398439;
+    background-color: #FFFF00;
+    border: 1px solid #080808;
 }
 
 .carousel-indicators .active{
-    background-color: #d9534f;
+    opacity: 8;
 }
 
 /*

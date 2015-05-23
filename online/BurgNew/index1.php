@@ -3,7 +3,7 @@
 <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
-    <title>Burg Vaes Arcitecten</title>
+    <title>burg vaes arcitecten</title>
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="keywords" content="burg, burghard, vaes, burg vaes, architect,alken, sint-lucas, sint-lukas, "/>
@@ -40,11 +40,11 @@
         </div>
         <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav navbar-static-top  navbar-left nav-font">
-                <li><a href="#section1">Home</a></li>
-                <li><a href="#section2">Projecten</a></li>
-                <li><a href="#section3">Info</a></li>
-                <li><a href="#section4">Locatie</a></li>
-                <li><a href="#section5">Contact</a></li>
+                <li><a href="#section1">home</a></li>
+                <li><a href="#section2">projecten</a></li>
+                <li><a href="#section3">info</a></li>
+                <li><a href="#section4">locatie</a></li>
+                <li><a href="#section5">contact</a></li>
             </ul>
 
         </div>
@@ -56,7 +56,7 @@
     <section>
         <div class="bg-4" id="section2">
             <div class="row">
-                <h2 class="text-center">Projecten</h2>
+                <h2 class="text-center">projecten</h2>
 
                 <div class="col-sm-10 col-sm-offset-1">
                     <div class="col-lg-3">
@@ -64,7 +64,7 @@
                             <div class="caption">
                                 <h4>woning Bert en Kelly</h4>
 
-                                <p><a href="slider1.html" class="label label-danger" rel="tooltip">naar het project</a>
+                                <p><a href="slider1.html" class="label btn-material-yellow" rel="tooltip">naar het project</a>
                             </div>
                             <img src="css/images/BertenKelly.jpg" class="img-responsive" alt="...">
                         </div>
@@ -76,7 +76,7 @@
                             <div class="caption">
                                 <h4>woning Burg en Ine</h4>
 
-                                <p><a href="notFound.php" class="label label-danger" rel="tooltip">naar het project</a>
+                                <p><a href="notFound.php" class="label  btn-material-yellow" rel="tooltip">naar het project</a>
                             </div>
                             <img src="css/images/Burgenine.jpg" class="img-responsive" alt="...">
                         </div>
@@ -88,7 +88,7 @@
                             <div class="caption">
                                 <h4>woning Danny</h4>
 
-                                <p><a href="notFound.php" class="label label-danger" rel="tooltip">naar het project</a>
+                                <p><a href="notFound.php" class="label  btn-material-yellow" rel="tooltip">naar het project</a>
                             </div>
                             <img src="css/images/Danny.jpg" class="img-responsive" alt="...">
                         </div>
@@ -100,7 +100,7 @@
                             <div class="caption">
                                 <h4>woning Dries en Sarina</h4>
 
-                                <p><a href="notFound.php" class="label label-danger" rel="tooltip">naar het project</a>
+                                <p><a href="notFound.php" class="label  btn-material-yellow" rel="tooltip">naar het project</a>
                             </div>
                             <img src="css/images/DriesenSarina.jpg" class="img-responsive" alt="...">
                         </div>
@@ -116,7 +116,7 @@
                             <div class="caption">
                                 <h4>woning Jerry en Uschi</h4>
 
-                                <p><a href="notFound.php" class="label label-danger" rel="tooltip">naar het project</a>
+                                <p><a href="notFound.php" class="label  btn-material-yellow" rel="tooltip">naar het project</a>
                             </div>
                             <img src="css/images/JerryenUschi.JPG" alt="...">
                         </div>
@@ -126,7 +126,7 @@
                             <div class="caption">
                                 <h4>woning Ronald en Simone</h4>
 
-                                <p><a href="notFound.php" class="label label-danger" rel="tooltip">naar het project</a>
+                                <p><a href="notFound.php" class="label  btn-material-yellow" rel="tooltip">naar het project</a>
                             </div>
                             <img src="css/images/RonaldenSimone.JPG" class="img-responsive" alt="...">
                         </div>
@@ -136,7 +136,7 @@
                             <div class="caption">
                                 <h4>woning Toon en Sara</h4>
 
-                                <p><a href="notFound.php" class="label label-danger" rel="tooltip">naar het project</a>
+                                <p><a href="notFound.php" class="label  btn-material-yellow" rel="tooltip">naar het project</a>
                             </div>
                             <img src="css/images/ToonenSara.jpg" class="img-responsive" alt="...">
                         </div>
@@ -148,7 +148,7 @@
                             <div class="caption">
                                 <h4>vrije ontwerpen</h4>
 
-                                <p><a href="notFound.php" class="label label-danger" rel="tooltip">naar het project</a>
+                                <p><a href="notFound.php" class="label  btn-material-yellow" rel="tooltip">naar het project</a>
                             </div>
                             <img src="css/images/Trailanderror.jpg" class="img-responsive" alt="...">
                         </div>
@@ -165,7 +165,7 @@
                 <div class="row font-big">
                     <div class="row">
                         <div class="container">
-                            <h2 class="text-center">Info </h2>
+                            <h2 class="text-center">info </h2>
 
                             <div class="col-lg-4  ">
                                 <ul>
@@ -284,7 +284,7 @@
 
                 <div class="row" id="section4">
                     <section>
-                        <h2 class="text-center">Locatie</h2>
+                        <h2 class="text-center">locatie</h2>
 
                         <div class="map-container">
                             <img src="css/images/locatieA.png" class="img-responsive center-block">
@@ -293,14 +293,14 @@
 
                         <div class="row">
                             <section id="section5">
-                                <h2 class="text-center">Contact</h2>
+                                <h2 class="text-center">contact</h2>
 
                                 <div class="col-sm-4">
                                 </div>
                                 <div class="col-sm-4"></div>
                                 <div class="col-sm-4">
                                     <ul>
-                                        <li><h3>Architectenbureau Burg Vaes </h3><br></li>
+                                        <li><h3>architectenbureau burg vaes </h3><br></li>
 
                                         <li><h5>Steenweg 137</h5></li>
                                         <li><h5>3540 Herk-de-Stad</h5></li>
@@ -319,7 +319,7 @@
                 </div>
 
                 <footer id="footer">
-                    <center><a href="#section1"><img src="css/images/logo-wit.png"></a></center>
+                    <center><a href="#section1"><img src="css/images/LogoBW.jpg"></a></center>
                 </footer>
                 <script src="js/jquery-2.1.4.min.js"></script>
                 <script src="js/bootstrap.min.js"></script>
