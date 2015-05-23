@@ -318,45 +318,11 @@
                         </div>
                 </div>
 
-
-                <!--
-                    <div class="modal" id="myModal" role="dialog">
-                        <div class="modal-dialog">
-                            <div class="modal-content">
-                                <div class="modal-header">
-                                    <button class="close" type="button" data-dismiss="modal">×</button>
-                                    <h3 class="modal-title"></h3>
-                                </div>
-                                <div class="modal-body">
-                                    <div id="modalCarousel" class="carousel">
-
-                                        <div class="carousel-inner">
-
-                                        </div>
-
-                                        <a class="carousel-control left" href="#modaCarousel" data-slide="prev"><i
-                                                class="glyphicon glyphicon-chevron-left"></i></a>
-                                        <a class="carousel-control right" href="#modalCarousel" data-slide="next"><i
-                                                class="glyphicon glyphicon-chevron-right"></i></a>
-
-                                    </div>
-                                </div>
-                                <div class="modal-footer">
-                                    <button class="btn btn-default" data-dismiss="modal">Close</button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>-->
-
-
                 <footer id="footer">
                     <center><a href="#section1"><img src="css/images/logo-wit.png"></a></center>
                 </footer>
-                <!-- script references -->
-                <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+                <script src="js/jquery-2.1.4.min.js"></script>
                 <script src="js/bootstrap.min.js"></script>
-                <script src="http://maps.googleapis.com/maps/api/js?sensor=false&extension=.js&output=embed"></script>
-                <script src="js/scripts.js"></script>
                 <script>
                     $(document).ready(function () {
                         $(document).scroll(function (e) {
