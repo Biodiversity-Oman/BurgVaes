@@ -30,7 +30,7 @@
 
         <div class="navbar-header">
 
-            <button type="button" class="navbar-toggle" data-toggle="collapse"
+            <button type="button" class="navbar-toggle pull-left" data-toggle="collapse"
                     data-target=".navbar-collapse">
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
@@ -64,7 +64,7 @@
                             <div class="caption">
                                 <h4>woning Bert en Kelly</h4>
 
-                                <p><a href="slider1.html" class="label btn-material-yellow" rel="tooltip">naar het project</a>
+                                <p><a href="bert&kelly.html" class="label btn-material-yellow" rel="tooltip">naar het project</a>
                             </div>
                             <img src="css/images/BertenKelly.jpg" class="img-responsive" alt="...">
                         </div>
@@ -76,7 +76,7 @@
                             <div class="caption">
                                 <h4>woning Burg en Ine</h4>
 
-                                <p><a href="notFound.php" class="label  btn-material-yellow" rel="tooltip">naar het project</a>
+                                <p><a href="burg&ine.html" class="label  btn-material-yellow" rel="tooltip">naar het project</a>
                             </div>
                             <img src="css/images/Burgenine.jpg" class="img-responsive" alt="...">
                         </div>
@@ -88,7 +88,7 @@
                             <div class="caption">
                                 <h4>woning Danny</h4>
 
-                                <p><a href="notFound.php" class="label  btn-material-yellow" rel="tooltip">naar het project</a>
+                                <p><a href="danny.html" class="label  btn-material-yellow" rel="tooltip">naar het project</a>
                             </div>
                             <img src="css/images/Danny.jpg" class="img-responsive" alt="...">
                         </div>
@@ -100,7 +100,7 @@
                             <div class="caption">
                                 <h4>woning Dries en Sarina</h4>
 
-                                <p><a href="notFound.php" class="label  btn-material-yellow" rel="tooltip">naar het project</a>
+                                <p><a href="dries&sarina.html" class="label  btn-material-yellow" rel="tooltip">naar het project</a>
                             </div>
                             <img src="css/images/DriesenSarina.jpg" class="img-responsive" alt="...">
                         </div>
@@ -116,7 +116,7 @@
                             <div class="caption">
                                 <h4>woning Jerry en Uschi</h4>
 
-                                <p><a href="notFound.php" class="label  btn-material-yellow" rel="tooltip">naar het project</a>
+                                <p><a href="jerry&uschi.html" class="label  btn-material-yellow" rel="tooltip">naar het project</a>
                             </div>
                             <img src="css/images/JerryenUschi.JPG" alt="...">
                         </div>
@@ -126,7 +126,7 @@
                             <div class="caption">
                                 <h4>woning Ronald en Simone</h4>
 
-                                <p><a href="notFound.php" class="label  btn-material-yellow" rel="tooltip">naar het project</a>
+                                <p><a href="toon&sara.html" class="label  btn-material-yellow" rel="tooltip">naar het project</a>
                             </div>
                             <img src="css/images/RonaldenSimone.JPG" class="img-responsive" alt="...">
                         </div>
@@ -136,7 +136,7 @@
                             <div class="caption">
                                 <h4>woning Toon en Sara</h4>
 
-                                <p><a href="notFound.php" class="label  btn-material-yellow" rel="tooltip">naar het project</a>
+                                <p><a href="ronald&simone.html" class="label  btn-material-yellow" rel="tooltip">naar het project</a>
                             </div>
                             <img src="css/images/ToonenSara.jpg" class="img-responsive" alt="...">
                         </div>
@@ -148,7 +148,7 @@
                             <div class="caption">
                                 <h4>vrije ontwerpen</h4>
 
-                                <p><a href="notFound.php" class="label  btn-material-yellow" rel="tooltip">naar het project</a>
+                                <p><a href="vrije_ontwerpen.html" class="label  btn-material-yellow" rel="tooltip">naar het project</a>
                             </div>
                             <img src="css/images/Trailanderror.jpg" class="img-responsive" alt="...">
                         </div>
@@ -169,29 +169,29 @@
 
                             <div class="col-lg-4  ">
                                 <ul>
-                                    <li><h5> Architect / Zaakvoerder </h5></li>
+                                    <li><h5> architect / zaakvoerder </h5></li>
                                     <li></li>
-                                    <li>Master in de architectuur</li>
+                                    <li>master in de architectuur</li>
 
-                                    <li> Campus Sint-Lucas Brussel, Faculteit architectuur.</li>
+                                    <li> campus Sint-Lucas Brussel, Faculteit architectuur.</li>
 
-                                    <li> Afgestudeerd met onderscheiding 2009-2011</li>
+                                    <li> afgestudeerd met onderscheiding 2009-2011</li>
 
-                                    <li>Schakelprogramma van interieurvormgeving naar architectuur
+                                    <li>schakelprogramma van interieurvormgeving naar architectuur
                                         Campus Sint-Lucas Brussel, Faculteit architectuur.
                                         2007-2009
                                     </li>
 
-                                    <li> Bachelor interieurvormgeving</li>
+                                    <li> bachelor interieurvormgeving</li>
 
-                                    <li> Hogeschool Sint-Lukas Brussel 2004-2007</li>
+                                    <li> hogeschool Sint-Lukas Brussel 2004-2007</li>
                                 </ul>
                             </div>
                             <div class="col-lg-4">
 
 
-                                <h5>Architectenbureau Burg Vaes</h5>
-                                <h6>Sinds januari 2012</h6>
+                                <h5>architectenbureau Burg Vaes</h5>
+                                <h6>sinds januari 2012</h6>
 
                                 <ul>
                                     <li>werk:</li>
@@ -205,8 +205,8 @@
                             </div>
                             <div class="col-lg-4">
 
-                                <h5>Stage als architect bij Axis Architecten & ingenieurs</h5>
-                                <h6>September 2012 tem december 2013</h6>
+                                <h5>stage als architect bij Axis Architecten & ingenieurs</h5>
+                                <h6>september 2012 tem december 2013</h6>
                                 <ul>
                                     <li>werk:</li>
                                     <li> 1 jeugdcentrum // ontwerp tot bouwaanvraag</li>
@@ -224,8 +224,8 @@
                         <div class="container">
                             <div class="col-lg-4">
 
-                                <h5> Stage als architect bij studiebureau Rimanque</h5>
-                                <h6> November 2011 tot september 2012</h6>
+                                <h5> stage als architect bij studiebureau Rimanque</h5>
+                                <h6> november 2011 tot september 2012</h6>
                                 <ul>
                                     <li>werk:</li>
                                     <li>2 meergezinswoningen // bouwaanvraag</li>
@@ -241,8 +241,8 @@
                             <div class="col-lg-4">
 
 
-                                <h5>Stage als interieurvormgever bij Quinze and Milan</h5>
-                                <h6>Juni-juli 2006</h6>
+                                <h5>stage als interieurvormgever bij Quinze and Milan</h5>
+                                <h6>juni-juli 2006</h6>
                                 <ul>
                                     <li>werk:</li>
                                     <li>1 interieuropdracht voor inrichting van een apotheek // ontwerp,
@@ -252,9 +252,9 @@
                             </div>
                             <div class="col-lg-4">
 
-                                <h5>Handgemaakte tafel voor Design Brussels: Table Talks, onderleiding van Giovanna
+                                <h5>handgemaakte tafel voor Design Brussels: Table Talks, onderleiding van Giovanna
                                     Massoni</h5>
-                                <h6>Juni-november 2007</h6>
+                                <h6>juni-november 2007</h6>
                                 <ul>
                                     <li>werk:</li>
                                     <li> Ontwerp en eigenhandige uitvoering van een tafel tentoongesteld op de beurs
@@ -302,10 +302,10 @@
                                     <ul>
                                         <li><h3>architectenbureau burg vaes </h3><br></li>
 
-                                        <li><h5>Steenweg 137</h5></li>
-                                        <li><h5>3540 Herk-de-Stad</h5></li>
+                                        <li><h5>steenweg 137</h5></li>
+                                        <li><h5>3540 herk-de-stad</h5></li>
                                         <li>&nbsp;</li>
-                                        <li><h5>Stuur een e-mail:</h5></li>
+                                        <li><h5>stuur een e-mail:</h5></li>
                                         <li><a href="mailto:info@burgvaes.be"><h4 id="mail-mij">info@burgvaes.be</h4>
                                             </a></li>
                                         <li>
