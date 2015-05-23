@@ -64,7 +64,7 @@
                             <div class="caption">
                                 <h4>woning Bert en Kelly</h4>
 
-                                <p><a href="" class="label label-danger" rel="tooltip">naar het project</a>
+                                <p><a href="slider1.html" class="label label-danger" rel="tooltip">naar het project</a>
                             </div>
                             <img src="css/images/BertenKelly.jpg" class="img-responsive" alt="...">
                         </div>

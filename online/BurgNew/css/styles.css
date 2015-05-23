@@ -285,3 +285,31 @@ ul li {
 #notFound{
     font-size: x-large;
 }
+
+/*
+carousel
+
+---------------------------------------------
+
+*/
+
+#slider img{
+   width: 100%;
+
+}
+
+.carousel-indicators li{
+    background-color: #398439;
+}
+
+.carousel-indicators .active{
+    background-color: #d9534f;
+}
+
+/*
+detail page
+
+-----------------------------------------------
+*/
+
+
