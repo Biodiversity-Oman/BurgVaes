@@ -76,7 +76,7 @@
                             <div class="caption">
                                 <h4>woning Burg en Ine</h4>
 
-                                <p><a href="" class="label label-danger" rel="tooltip">naar het project</a>
+                                <p><a href="notFound.php" class="label label-danger" rel="tooltip">naar het project</a>
                             </div>
                             <img src="css/images/Burgenine.jpg" class="img-responsive" alt="...">
                         </div>
@@ -88,7 +88,7 @@
                             <div class="caption">
                                 <h4>woning Danny</h4>
 
-                                <p><a href="" class="label label-danger" rel="tooltip">naar het project</a>
+                                <p><a href="notFound.php" class="label label-danger" rel="tooltip">naar het project</a>
                             </div>
                             <img src="css/images/Danny.jpg" class="img-responsive" alt="...">
                         </div>
@@ -100,7 +100,7 @@
                             <div class="caption">
                                 <h4>woning Dries en Sarina</h4>
 
-                                <p><a href="" class="label label-danger" rel="tooltip">naar het project</a>
+                                <p><a href="notFound.php" class="label label-danger" rel="tooltip">naar het project</a>
                             </div>
                             <img src="css/images/DriesenSarina.jpg" class="img-responsive" alt="...">
                         </div>
@@ -116,7 +116,7 @@
                             <div class="caption">
                                 <h4>woning Jerry en Uschi</h4>
 
-                                <p><a href="" class="label label-danger" rel="tooltip">naar het project</a>
+                                <p><a href="notFound.php" class="label label-danger" rel="tooltip">naar het project</a>
                             </div>
                             <img src="css/images/JerryenUschi.JPG" alt="...">
                         </div>
@@ -126,7 +126,7 @@
                             <div class="caption">
                                 <h4>woning Ronald en Simone</h4>
 
-                                <p><a href="" class="label label-danger" rel="tooltip">naar het project</a>
+                                <p><a href="notFound.php" class="label label-danger" rel="tooltip">naar het project</a>
                             </div>
                             <img src="css/images/RonaldenSimone.JPG" class="img-responsive" alt="...">
                         </div>
@@ -136,7 +136,7 @@
                             <div class="caption">
                                 <h4>woning Toon en Sara</h4>
 
-                                <p><a href="" class="label label-danger" rel="tooltip">naar het project</a>
+                                <p><a href="notFound.php" class="label label-danger" rel="tooltip">naar het project</a>
                             </div>
                             <img src="css/images/ToonenSara.jpg" class="img-responsive" alt="...">
                         </div>
@@ -148,7 +148,7 @@
                             <div class="caption">
                                 <h4>vrije ontwerpen</h4>
 
-                                <p><a href="" class="label label-danger" rel="tooltip">naar het project</a>
+                                <p><a href="notFound.php" class="label label-danger" rel="tooltip">naar het project</a>
                             </div>
                             <img src="css/images/Trailanderror.jpg" class="img-responsive" alt="...">
                         </div>
