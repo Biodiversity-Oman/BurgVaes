@@ -2,228 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db581769-fe84-4c0a-8c13-06c33710a502" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\.idea\misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\Homepage2s.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\Magister\BurgNew\.idea\.name" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\Magister\BurgNew\.idea\BurgNew.iml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\Magister\BurgNew\.idea\encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\Magister\BurgNew\.idea\misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\Magister\BurgNew\.idea\modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\Magister\BurgNew\.idea\scopes\scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\Magister\BurgNew\.idea\vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\Magister\BurgNew\.idea\workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\Magister\BurgNew\css\bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\Magister\BurgNew\css\images\1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\Magister\BurgNew\css\images\2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\Magister\BurgNew\css\images\3.JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\Magister\BurgNew\css\images\4_F2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\Magister\BurgNew\css\images\5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\Magister\BurgNew\css\images\6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\Magister\BurgNew\css\images\7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\Magister\BurgNew\css\images\LogoBW.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\Magister\BurgNew\css\images\homepageC.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\Magister\BurgNew\css\styles.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\Magister\BurgNew\js\bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\Magister\BurgNew\js\scripts.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\Magister\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\Magister\assets\css\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\Magister\assets\css\assets\css\magister.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\Magister\assets\css\assets\images\Homepage2s.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\Magister\assets\css\assets\images\Hompage.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\Magister\assets\css\assets\images\cropped1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\Magister\assets\css\assets\images\gt_favicon.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\Magister\assets\css\assets\js\magister.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\Magister\assets\css\assets\js\modernizr.custom.72241.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\Magister\assets\css\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\Magister\assets\css\magister.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\Magister\assets\images\Homepage2s.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\Magister\assets\images\Hompage.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\Magister\assets\images\cropped1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\Magister\assets\images\gt_favicon.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\Magister\assets\js\magister.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\Magister\assets\js\modernizr.custom.72241.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\Magister\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\.idea\.name" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\.idea\encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\.idea\misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\.idea\modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\.idea\online.iml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\.idea\php.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\.idea\scopes\scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\.idea\vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\.idea\workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\9-Ronald-en-Simone_opt.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\.idea\.name" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\.idea\BurgNew.iml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\.idea\encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\.idea\misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\.idea\modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\.idea\php.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\.idea\scopes\scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\.idea\vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\.idea\workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\bert&amp;kelly.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\burg&amp;ine.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\fonts\glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\fonts\glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\fonts\glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\fonts\glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\4.JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\4.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\9-Ronald-en-Simone_opt.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\A2C.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\A2D.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\BertenKelly.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\Burgenine.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\Danny.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\DriesenSarina.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\Homepagetest.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\JerryenUschi.JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\LogoBW.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\RonaldenSimone.JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\ToonenSara.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\Trailanderror.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\architect- bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\architect-bg2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\bert&amp;kelly\0 Homepage Bert en Kelly.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\bert&amp;kelly\1 Bert en Kelly.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\bert&amp;kelly\2 Bert en Kelly.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\bert&amp;kelly\3 Bert en Kelly.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\bert&amp;kelly\4 Bert en Kelly.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\bert&amp;kelly\5 Bert en Kelly.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\bert&amp;kelly\6 Bert en kelly.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\bert&amp;kelly\7 Bert en kelly.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\bg_play_pause.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\burg&amp;ine\0 homepage Burg en ine.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\burg&amp;ine\1 Burg en Ine.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\burg&amp;ine\10 Burg en Ine.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\burg&amp;ine\11 Burg en Ine.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\burg&amp;ine\12 Burg en Ine.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\burg&amp;ine\13 Burg en Ine.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\burg&amp;ine\14 Burg en Ine.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\burg&amp;ine\2 Burg en Ine.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\burg&amp;ine\3 Burg en Ine.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\burg&amp;ine\4 Burg en Ine.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\burg&amp;ine\5 Burg en Ine.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\burg&amp;ine\6 Burg en Ine.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\burg&amp;ine\7 Burg en Ine.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\burg&amp;ine\8 Burg en Ine.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\burg&amp;ine\9 Burg en Ine.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\burg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\danny\0 Homepage Danny.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\danny\1 woning Danny.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\danny\2 woning Danny.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\danny\3 woning Danny.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\danny\4 woning Danny.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\danny\5 woning Danny.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\danny\6 woning Danny.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\danny\7 woning Danny.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\dries&amp;sarina\0 Hompage Dries en Sarina.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\dries&amp;sarina\1 Dries en Sarina.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\dries&amp;sarina\10 Dries en Sarina.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\dries&amp;sarina\11 Dries en Sarina.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\dries&amp;sarina\12 Dries en Sarina.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\dries&amp;sarina\2 Dries en Sarina.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\dries&amp;sarina\5 Dries en Sarina.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\dries&amp;sarina\6 Dries en Sarina.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\dries&amp;sarina\7 Dries en Sarina.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\dries&amp;sarina\8 Dries en Sarina.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\dries&amp;sarina\9 Dries en Sarina.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\facebook-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\facebook-iconA.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\four-oh-four_09.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\happy-404.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\homepage3C.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\homepage3D.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\homepageC.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\homepageDraw.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\jerry&amp;uschi\0 Homepage Jerry en Uschi.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\jerry&amp;uschi\1 Jerry en Uschi.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\jerry&amp;uschi\10 Jerry en Uschi.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\jerry&amp;uschi\11 Jerry en Uschi.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\jerry&amp;uschi\2 Jerry en Uschi.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\jerry&amp;uschi\3 Jerry en Uschi.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\jerry&amp;uschi\4 Jerry en uschi.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\jerry&amp;uschi\5 Jerry en Uschi.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\jerry&amp;uschi\6 Jerry en Uschi.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\jerry&amp;uschi\7 Jerry en Uschi.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\jerry&amp;uschi\8 Jerry en uschi.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\jerry&amp;uschi\9 Jerry en Uschi.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\locatieA.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\logo-wit-start.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\logo-wit.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\logoNav.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\ronald&amp;simone\0 Homepage Ronald en Simone.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\ronald&amp;simone\1 Ronald en Simone.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\ronald&amp;simone\10 Ronald en Simone.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\ronald&amp;simone\2 Ronald en Simone.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\ronald&amp;simone\3 Ronald en Simone.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\ronald&amp;simone\4 Ronald en Simone.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\ronald&amp;simone\5 Ronald en Simone.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\ronald&amp;simone\6 Ronald en Simone.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\ronald&amp;simone\7 Ronald en Simone.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\ronald&amp;simone\8 Ronald en Simone.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\ronald&amp;simone\9 Ronald en Simone.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\toon&amp;sara\0 Homepage Foto Toon en Sara.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\toon&amp;sara\1 Toon en Sara.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\toon&amp;sara\2 Toon en Sara.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\toon&amp;sara\3 Toon en Sara.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\toon&amp;sara\4 Toon en Sara.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\toon&amp;sara\5 Toon en Sara.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\toon&amp;sara\6 Toon en Sara.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\toon&amp;sara\7 Toon en Sara.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\toon&amp;sara\8 Toon en Sara.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\toon&amp;sara\9 Toon en Sara.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\vrijeOntwerpen\0 Homepage foto Trail and error.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\vrijeOntwerpen\1 Trail and error.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\vrijeOntwerpen\10 Trail and error.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\vrijeOntwerpen\2 Trail and error.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\vrijeOntwerpen\3 Trail and error.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\vrijeOntwerpen\4 Trail and error.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\vrijeOntwerpen\5 Trail and error.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\vrijeOntwerpen\6 Trail and error.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\vrijeOntwerpen\7 Trail and error.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\vrijeOntwerpen\8 Trail and error.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\images\vrijeOntwerpen\9 Trail and error.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\css\styles.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\danny.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\dries&amp;sarina.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\index1.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\jerry&amp;uschi.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\js\bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\js\jquery-2.1.4.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\js\jquery.mobile-1.4.5.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\notFound.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\ronald&amp;simone.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\tab.ico" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\toon&amp;sara.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\BurgNew\vrije_ontwerpen.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\assets\css\magister.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\assets\images\Homepage-foto_opt.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\assets\images\Homepage-foto_opt1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\assets\images\Homepage2s.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\assets\images\Hompage.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\assets\images\cropped1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\assets\images\gt_favicon.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\assets\js\magister.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\assets\js\modernizr.custom.72241.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tom\Documents\GitGitGit\BurgVaes\online\tab.ico" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/BurgVaes.iml" afterPath="$PROJECT_DIR$/.idea/BurgVaes.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/php.xml" afterPath="$PROJECT_DIR$/.idea/php.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="BurgVaes.iws" />
@@ -252,8 +30,8 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="6307">
-              <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.67105263" vertical-offset="221" max-vertical-offset="6307">
+              <caret line="46" column="55" selection-start-line="13" selection-start-column="21" selection-end-line="46" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -378,12 +156,20 @@
       <option name="number" value="Default" />
       <updated>1432898798131</updated>
     </task>
+    <task id="LOCAL-00001" summary="clean up">
+      <created>1432899285192</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1432899285192</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1048" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -422,6 +208,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="clean up" />
+    <option name="LAST_COMMIT_MESSAGE" value="clean up" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -438,8 +226,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="6307">
-          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.67105263" vertical-offset="221" max-vertical-offset="6307">
+          <caret line="46" column="55" selection-start-line="13" selection-start-column="21" selection-end-line="46" selection-end-column="55" />
           <folding />
         </state>
       </provider>
