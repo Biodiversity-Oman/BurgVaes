@@ -206,11 +206,10 @@
 
                                 <ul>
                                     <li>werk:</li>
-                                    <li> 3 nieuwbouwwoningen voor particiulieren // ontwerp, bouwaanvraag, uitvoering
-                                    </li>
-                                    <li> 9 renovaties voor particulieren // ontwerp, bouwaanvraag, uitvoering</li>
-                                    <li> 1 meergezinswoning voor particulier // ontwerp, bouwaanvraag</li>
-                                    <li> 1 kangoeroewoning voor particulier // ontwerp</li>
+                                    <li> 3 nieuwbouwwoningen voor particulieren // 2 momenteel in uitvoering </li>
+                                    <li> 9 renovaties voor particulieren // 3 momenteel in uitvoering</li>
+                                    <li> 1 meergezinswoning voor particulier // fase voorontwerp</li>
+                                    <li> 1 kangoeroewoning voor particulier // fase voorontwerp</li>
                                 </ul>
 
                             </div>
@@ -221,9 +220,10 @@
                                 <ul>
                                     <li>werk:</li>
                                     <li> 1 jeugdcentrum // ontwerp tot bouwaanvraag</li>
-                                    <li> 1 sociale woonwijk // werfopvolging</li>
+                                    <li> 1 sociale woonwijk //opvolging werf</li>
                                     <li> 1 magazijn- en kantoorgebouw // werfopvolging</li>
                                     <li> 1 zorgcentrum // werfopvolging</li>
+                                    <li> 1 interieuropdracht // ontwerp tot uitvoering</li>
                                 </ul>
                             </div>
 
@@ -244,7 +244,6 @@
                                     <li> 1 nieuwbouwwoning // ontwerp</li>
                                     <li> 1 renovatie eengezinswoning // bouwaanvraag</li>
                                     <li> 2 industrielen gebouwen // ontwerp, bouwaanvraag</li>
-                                    <li> 1 interieuropdracht // ontwerp, werf, uitgevoerd</li>
                                 </ul>
 
                             </div>
@@ -252,13 +251,11 @@
                             <div class="col-lg-4">
 
 
-                                <h5>stage als interieurvormgever bij Quinze and Milan</h5>
+                                <h5>stage als interieurvormgever bij Arne Quinze and Milan</h5>
                                 <h6>juni-juli 2006</h6>
                                 <ul>
                                     <li>werk:</li>
-                                    <li>1 interieuropdracht voor inrichting van een apotheek // ontwerp,
-                                        uitvoeringsplannen
-                                    </li>
+                                    <li>1 interieuropdracht voor inrichting van een apotheek // ontwerp,uitvoeringsplannen</li>
                                 </ul>
                             </div>
                             <div class="col-lg-4">
@@ -316,11 +313,12 @@
                                         <li><h5>steenweg 137</h5></li>
                                         <li><h5>3540 herk-de-stad</h5></li>
                                         <li>&nbsp;</li>
-                                        <li>0497 135 700</li>
+                                        <li><h5>0497 135 700</h5></li>
                                         <li>&nbsp;</li>
                                         <li><h5>stuur een e-mail:</h5></li>
-                                        <li><a href="mailto:info@burgvaes.be"><h4 id="mail-mij">info@burgvaes.be</h4>
+                                        <li><a href="mailto:info@burgvaes.be"><h5 id="mail-mij">info@burgvaes.be</h5>
                                             </a></li>
+                                        <li>&nbsp;</li>
                                         <li>
                                             <a href="https://www.facebook.com/pages/Architectenbureau-Burg-Vaes/1674083962819378?ref=aymt_homepage_panel">
                                                 <img src="css/images/facebook-iconA.png"
