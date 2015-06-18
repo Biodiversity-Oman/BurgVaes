@@ -367,7 +367,10 @@ carousel
     left: auto;
     background-image: none;
 }
-
+.glyphicon.glyphicon-chevron-down {
+    font-size: 25px;
+    color: dimgrey;
+}
 
 /*a {
     color: #428BCA;

@@ -10,6 +10,7 @@
           content="burg, burghard, vaes, burg vaes, architect,alken, sint-lucas, sint-lukas, Architect Hasselt,
           Architect Herk-de-Stad, Architect Limburg,Architect moderne woningen, Interieur architecten,Interieur architecten Hasselt,
            Interieurarchitecten Limburg, Architectenbureau Hasselt, Architectenbureau Herk-de-Stad, Architectenbureau Limburg "/>
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <!--[if lt IE 9]>
     <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -23,6 +24,9 @@
         <div class="first-container " id="section1">
 
             <img src="css/images/homepageDraw.png" class="img-responsive absolute-center">
+            <nav class="navbar navbar-fixed-bottom text-center" role="navigation">
+            <a href="#section2"><p id="fScroll" class="glyphicon glyphicon-chevron-down"></p></a>
+            </nav>
 
         </div>
     </header>
@@ -340,8 +344,10 @@
                             var scrollTop = $(document).scrollTop();
                             if (scrollTop > 0) {
                                 $('.navbar').removeClass('navbar-static-top').addClass('navbar-fixed-top');
+                                document.getElementById("fScroll").style.visibility = "hidden";
                             } else {
                                 $('.navbar').removeClass('navbar-fixed-top').addClass('navbar-static-top');
+                                document.getElementById("fScroll").style.visibility = "visible";
                             }
                         });
                         $("a").click(function () {
