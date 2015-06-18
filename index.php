@@ -22,11 +22,11 @@
 <div id="wrapper">
     <header>
         <div class="first-container " id="section1">
-
             <img src="css/images/homepageDraw.png" class="img-responsive absolute-center">
-            <nav class="navbar navbar-fixed-bottom text-center" role="navigation">
-            <a href="#section2"><p id="fScroll" class="glyphicon glyphicon-chevron-down"></p></a>
-            </nav>
+
+            <div class="fixed">
+                <a href="#section2"><p id="fScroll" class="glyphicon glyphicon-chevron-down "></p></a>
+            </div>
 
         </div>
     </header>
