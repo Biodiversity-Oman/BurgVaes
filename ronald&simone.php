@@ -1,46 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <meta charset="utf-8">
-    <title>burg vaes architecten</title>
-    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
-    <link href="css/jquery.sidr.light.css" rel="stylesheet">
 
-    <!--[if lt IE 9]>
-    <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <link href="css/styles.css" rel="stylesheet">
+<?php
+include_once 'header.php';
+?>
 
-</head>
+
 <body>
 <div id="wrapper">
-
-    <nav class="header">
-        <a id="simple-menu" href="#sidr"><p class="glyphicon glyphicon-th-list"></p></a>
-
-    </nav>
-    <div id="sidr">
-        <ul>
-            <li><a href="index.php#section1">home</a></li>
-            <li><a href="index.php#section2">projecten</a>
-                <ul>
-                    <li><a href="burg&ine.html">burg & ine</a></li>
-                    <li><a href="danny.html">danny</a></li>
-                    <li><a href="dries&sarina.html">dries & sarina</a></li>
-                    <li><a href="jerry&uschi.html">jerry & ushi</a></li>
-                    <li><a href="ronald&simone.html">ronald & simone</a></li>
-                    <li><a href="toon&sara.html">toon & sara</a></li>
-                </ul></li>
-
-            <li><a href="index.php#section3">info</a></li>
-            <li><a href="index.php#section4">locatie</a></li>
-            <li><a href="index.php#section5">contact</a></li>
-        </ul>
-    </div>
+    <?php
+    include_once'navigation.php';
+    ?>
     <section>
         <div class="divider2">&nbsp;</div>
     </section>

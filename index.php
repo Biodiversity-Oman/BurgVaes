@@ -71,7 +71,7 @@
                             <div class="caption">
                                 <h4>woning Bert en Kelly</h4>
 
-                                <p><a href="bert&kelly.html" class="label btn-material-yellow" rel="tooltip">naar het
+                                <p><a href="bert&kelly.php" class="label btn-material-yellow" rel="tooltip">naar het
                                         project</a>
                             </div>
                             <img src="css/images/BertenKelly.jpg" class="img-responsive" alt="...">
@@ -84,7 +84,7 @@
                             <div class="caption">
                                 <h4>woning Burg en Ine</h4>
 
-                                <p><a href="burg&ine.html" class="label  btn-material-yellow" rel="tooltip">naar het
+                                <p><a href="burg&ine.php" class="label  btn-material-yellow" rel="tooltip">naar het
                                         project</a>
                             </div>
                             <img src="css/images/Burgenine.jpg" class="img-responsive" alt="...">
@@ -97,7 +97,7 @@
                             <div class="caption">
                                 <h4>woning Danny</h4>
 
-                                <p><a href="danny.html" class="label  btn-material-yellow" rel="tooltip">naar het
+                                <p><a href="danny.php" class="label  btn-material-yellow" rel="tooltip">naar het
                                         project</a>
                             </div>
                             <img src="css/images/Danny.jpg" class="img-responsive" alt="...">
@@ -110,7 +110,7 @@
                             <div class="caption">
                                 <h4>woning Dries en Sarina</h4>
 
-                                <p><a href="dries&sarina.html" class="label  btn-material-yellow" rel="tooltip">naar het
+                                <p><a href="dries&sarina.php" class="label  btn-material-yellow" rel="tooltip">naar het
                                         project</a>
                             </div>
                             <img src="css/images/DriesenSarina.jpg" class="img-responsive" alt="...">
@@ -127,7 +127,7 @@
                             <div class="caption">
                                 <h4>woning Jerry en Uschi</h4>
 
-                                <p><a href="jerry&uschi.html" class="label  btn-material-yellow" rel="tooltip">naar het
+                                <p><a href="jerry&uschi.php" class="label  btn-material-yellow" rel="tooltip">naar het
                                         project</a>
                             </div>
                             <img src="css/images/JerryenUschi.JPG" alt="...">
@@ -138,7 +138,7 @@
                             <div class="caption">
                                 <h4>woning Ronald en Simone</h4>
 
-                                <p><a href="ronald&simone.html" class="label  btn-material-yellow" rel="tooltip">naar
+                                <p><a href="ronald&simone.php" class="label  btn-material-yellow" rel="tooltip">naar
                                         het project</a>
                             </div>
                             <img src="css/images/RonaldenSimone.JPG" class="img-responsive" alt="...">
@@ -149,7 +149,7 @@
                             <div class="caption">
                                 <h4>woning Toon en Sara</h4>
 
-                                <p><a href="toon&sara.html" class="label  btn-material-yellow" rel="tooltip">naar het
+                                <p><a href="toon&sara.php" class="label  btn-material-yellow" rel="tooltip">naar het
                                         project</a>
                             </div>
                             <img src="css/images/ToonenSara.jpg" class="img-responsive" alt="...">
@@ -162,7 +162,7 @@
                             <div class="caption">
                                 <h4>vrije ontwerpen</h4>
 
-                                <p><a href="vrije_ontwerpen.html" class="label  btn-material-yellow" rel="tooltip">naar
+                                <p><a href="vrije_ontwerpen.php" class="label  btn-material-yellow" rel="tooltip">naar
                                         het project</a>
                             </div>
                             <img src="css/images/Trailanderror.jpg" class="img-responsive" alt="...">
