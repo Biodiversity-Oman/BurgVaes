@@ -4,8 +4,8 @@
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
     <title>burg vaes architecten</title>
-    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="shortcut icon" type="image/x-icon" href="/tab.ico">
     <meta name="keywords"
           content="burg, burghard, vaes, burg vaes, architect,alken, sint-lucas, sint-lukas, Architect Hasselt,
           Architect Herk-de-Stad, Architect Limburg,Architect moderne woningen, Interieur architecten,Interieur architecten Hasselt,
@@ -322,11 +322,15 @@
                                         <li><h5>stuur een e-mail:</h5></li>
                                         <li><a href="mailto:info@burgvaes.be"><h5 id="mail-mij">info@burgvaes.be</h5>
                                             </a></li>
-                                        <li>&nbsp;</li>
+                                    </ul>
+                                    <ul id="icons">
                                         <li>
                                             <a href="https://www.facebook.com/pages/Architectenbureau-Burg-Vaes/1674083962819378?ref=aymt_homepage_panel">
                                                 <img src="css/images/facebook-iconA.png"
                                                      class="img-responsive text-center"></a>
+                                        </li>
+                                        <li>
+                                            <a href="http://maps.google.com/maps?daddr=steenweg+137,+herk-de-stad"><img src="css/images/Google-Maps-icon.png" class="img-responsive text-center"></a>
                                         </li>
                                     </ul>
                             </section>

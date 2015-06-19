@@ -14,10 +14,6 @@ body {
     margin-right: 0px;
 }
 
-
-
-
-
 #footer {
     height: 50%;
     opacity: 0.8;
@@ -306,17 +302,8 @@ carousel
     max-height: 625px !important;
 }
 
-/*.peopleCarouselImg img {
-    width: auto;
-    height: 225px;
-    max-height: 225px;
-}*/
-/*.carousel-inner > .item > img{
-    width:600px;
-    height:425px;
-}*/
 .divider2{
-   min-height: 50%;
+   min-height: 10%;
 }
 
 .carousel-indicators li{
@@ -327,15 +314,6 @@ carousel
 .carousel-indicators .active{
     background-color: #FFFF00;
 }
-
-/*.carousel .item {
-    -webkit-transition: .7s ease-in-out opacity;
-    -moz-transition: .7s ease-in-out opacity;
-    -ms-transition: .7s ease-in-out opacity;
-    -o-transition: .7s ease-in-out opacity;
-    transition: .7s ease-in-out opacity;
-    left: 0 !important;
-}*/
 
 .carousel .active.left, .carousel .active.right {
     opacity: 0;
@@ -368,42 +346,37 @@ carousel
     background-image: none;
 }
 .glyphicon.glyphicon-chevron-down {
-    font-size: 25px;
-    color: dimgrey;
+    font-size: 50px;
+    color: #8C8C8C;
+    margin-left: 2%;
+    margin-top: 1%;
+
+}
+
+.glyphicon {
+    font-size: 30px;
+    color: #8C8C8C;
+    margin-left: 2%;
+    margin-top: 1%;
+
 }
 
 .fixed {
     position: fixed;
     bottom:0;
-    margin-left: 95%;
-    margin-bottom: 2%;
-
+    margin-left: 75%;
 
 }
-
-/*a {
-    color: #428BCA;
-    text-decoration: none;
+a{
+    outline: none !important;
 }
-a {
-    color: #428BCA;
-    text-decoration: none;
-}
-a {
-    background: none;
-}
-*, *::before, *::after {
-    box-sizing: border-box;
-}
-*, *::before, *::after {
-    box-sizing: border-box;
-}*/
 
+#icons > li{
+    display: inline-block;
+    *display:inline; /* this fix is needed for IE7-*/
+    max-height: 30px;
+    width: auto;
+}
 
-/*
-detail page
-
------------------------------------------------
-*/
 
 
