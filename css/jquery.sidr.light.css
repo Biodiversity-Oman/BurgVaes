@@ -10,7 +10,8 @@
     overflow-y: auto;
     font-family: Courier, "Courier New", monospace;
     font-size: 12px;
-    background: none;
+    background: left;
+    background-color: #FFFA3B;
     color: #333;
 /*    -webkit-box-shadow: inset 0 0 5px 5px #ebebeb;
     -moz-box-shadow: inset 0 0 5px 5px #ebebeb;
@@ -102,7 +103,7 @@
 }
 .sidr ul li ul {
     border-bottom: none;
-    margin: 0
+    margin: 0;
 }
 .sidr ul li ul li {
     line-height: 40px;

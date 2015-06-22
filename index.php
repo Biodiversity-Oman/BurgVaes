@@ -66,18 +66,18 @@
                 <h2 class="text-center">projecten</h2>
 
                 <div class="col-sm-10 col-sm-offset-1">
+
                     <div class="col-lg-3">
                         <div class="thumbnail">
                             <div class="caption">
-                                <h4>woning Bert en Kelly</h4>
+                                <h4>woning Dries en Sarina</h4>
 
-                                <p><a href="bert&kelly.php" class="label btn-material-yellow" rel="tooltip">naar het
+                                <p><a href="dries&sarina.php" class="label  btn-material-yellow" rel="tooltip">naar het
                                         project</a>
                             </div>
-                            <img src="css/images/BertenKelly.jpg" class="img-responsive" alt="...">
+                            <img src="css/images/DriesenSarina.jpg" class="img-responsive" alt="...">
                         </div>
                     </div>
-
 
                     <div class="col-lg-3">
                         <div class="thumbnail">
@@ -108,12 +108,12 @@
                     <div class="col-lg-3">
                         <div class="thumbnail">
                             <div class="caption">
-                                <h4>woning Dries en Sarina</h4>
+                                <h4>woning Bert en Kelly</h4>
 
-                                <p><a href="dries&sarina.php" class="label  btn-material-yellow" rel="tooltip">naar het
+                                <p><a href="bert&kelly.php" class="label btn-material-yellow" rel="tooltip">naar het
                                         project</a>
                             </div>
-                            <img src="css/images/DriesenSarina.jpg" class="img-responsive" alt="...">
+                            <img src="css/images/BertenKelly.jpg" class="img-responsive" alt="...">
                         </div>
                     </div>
 
@@ -202,23 +202,8 @@
                                     <li> hogeschool Sint-Lukas Brussel 2004-2007</li>
                                 </ul>
                             </div>
+
                             <div class="col-lg-4">
-
-
-                                <h5>architectenbureau Burg Vaes</h5>
-                                <h6>sinds januari 2012</h6>
-
-                                <ul>
-                                    <li>werk:</li>
-                                    <li> 3 nieuwbouwwoningen voor particulieren // 2 momenteel in uitvoering </li>
-                                    <li> 9 renovaties voor particulieren // 3 momenteel in uitvoering</li>
-                                    <li> 1 meergezinswoning voor particulier // fase voorontwerp</li>
-                                    <li> 1 kangoeroewoning voor particulier // fase voorontwerp</li>
-                                </ul>
-
-                            </div>
-                            <div class="col-lg-4">
-
                                 <h5>stage als architect bij Axis Architecten & ingenieurs</h5>
                                 <h6>september 2012 tem december 2013</h6>
                                 <ul>
@@ -230,6 +215,19 @@
                                     <li> 1 interieuropdracht // ontwerp tot uitvoering</li>
                                 </ul>
                             </div>
+                            <div class="col-lg-4">
+
+
+                                <h5>stage als interieurvormgever bij Arne Quinze and Milan</h5>
+                                <h6>juni-juli 2006</h6>
+                                <ul>
+                                    <li>werk:</li>
+                                    <li>1 interieuropdracht voor inrichting van een apotheek //
+                                        ontwerp,uitvoeringsplannen
+                                    </li>
+                                </ul>
+                            </div>
+
 
                         </div>
                     </div>
@@ -238,7 +236,19 @@
                     <div class="row">
                         <div class="container">
                             <div class="col-lg-4">
+                                <h5>architectenbureau Burg Vaes</h5>
+                                <h6>sinds januari 2012</h6>
 
+                                <ul>
+                                    <li>werk:</li>
+                                    <li> 3 nieuwbouwwoningen voor particulieren // 2 momenteel in uitvoering</li>
+                                    <li> 9 renovaties voor particulieren // 3 momenteel in uitvoering</li>
+                                    <li> 1 meergezinswoning voor particulier // fase voorontwerp</li>
+                                    <li> 1 kangoeroewoning voor particulier // fase voorontwerp</li>
+                                </ul>
+                            </div>
+
+                            <div class="col-lg-4">
                                 <h5> stage als architect bij studiebureau Rimanque</h5>
                                 <h6> november 2011 tot september 2012</h6>
                                 <ul>
@@ -249,19 +259,9 @@
                                     <li> 1 renovatie eengezinswoning // bouwaanvraag</li>
                                     <li> 2 industrielen gebouwen // ontwerp, bouwaanvraag</li>
                                 </ul>
-
                             </div>
 
-                            <div class="col-lg-4">
 
-
-                                <h5>stage als interieurvormgever bij Arne Quinze and Milan</h5>
-                                <h6>juni-juli 2006</h6>
-                                <ul>
-                                    <li>werk:</li>
-                                    <li>1 interieuropdracht voor inrichting van een apotheek // ontwerp,uitvoeringsplannen</li>
-                                </ul>
-                            </div>
                             <div class="col-lg-4">
 
                                 <h5>handgemaakte tafel voor Design Brussels: Table Talks, onderleiding van Giovanna
@@ -326,11 +326,13 @@
                                     <ul id="icons">
                                         <li>
                                             <a href="https://www.facebook.com/pages/Architectenbureau-Burg-Vaes/1674083962819378?ref=aymt_homepage_panel">
-                                                <img src="css/images/facebook-iconA.png"
+                                                <img src="css/images/facebook.jpg"
                                                      class="img-responsive text-center"></a>
                                         </li>
                                         <li>
-                                            <a href="http://maps.google.com/maps?daddr=steenweg+137,+herk-de-stad"><img src="css/images/Google-Maps-icon.png" class="img-responsive text-center"></a>
+                                            <a href="http://maps.google.com/maps?daddr=steenweg+137,+herk-de-stad"><img
+                                                    src="css/images/googlemaps.jpg"
+                                                    class="img-responsive text-center"></a>
                                         </li>
                                     </ul>
                             </section>
