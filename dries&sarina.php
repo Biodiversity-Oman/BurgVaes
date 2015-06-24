@@ -60,35 +60,48 @@ include_once 'header.php';
                         <img src="css/images/dries&sarina/12%20Dries%20en%20Sarina.jpg" class="img-responsive" alt="">
                     </div>
                 </div>
-
+                <a class="carousel-control right" href="#slider" data-slide="next"><i> >></i></a>
+                <a class="carousel-control left" href="#slider" data-slide="prev"><i> <<</i></a>
             </div>
         </div>
 
     </div>
-    <div class="row">
-        <div class="col-sm-6 col-md-offset-3">
-            <a class="carousel-control left" href="#slider" data-slide="prev"><</a>
-            <a href="//www.pinterest.com/pin/create/button/" data-pin-do="buttonBookmark"  data-pin-color="red">
-                <img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_20.png" /></a>
-            <a class="carousel-control right" href="#slider" data-slide="next">></a>
-        </div>
-    </div>
+
     <!--End Slider-->
 
     <div class="row">
         <div class="col-md-6 col-md-offset-3">
             <h3 class="text-center">woning Dries & Sarina</h3>
+            <ul>
+                <li>Nieuwbouw</li>
+                <li>Ontwerp 2015</li>
+            </ul>
 
-            <p></p>
+            <h3>Vraag:</h3>
+            <p>Ontwerp woning in halfopen bebouwing.<br>
+                <h3>Knelpunten:</h3>
+
+                Stedenbouwkundige voorschriften.<br>
+                Lage kroonlijsthoogte van aanpalende buur.
+                </p>
+
+
+
+            <h3>Antwoord:</h3>
+            <p>
+                Woning dat getypeerd wordt door twee verschillende kroonlijsthoogtes. Deze verspring van de kroonlijst maakt dat er een interessant en speels volume ontstaat.<br>
+                Tegen de buur (lage kroonlijsthoogte) worden de natte ruimtes en bergingen voorzien m.a.w. in hoofdzaak de ruimtes die weinig tot geen natuurlijk licht nodig hebben.<br>
+                Aan de open kant worden de leefruimte en de slaapkamers voorzien.<br>
+                Elke ruimte onder het hellend dak wordt benut. Onder de minder toegankelijke delen van het hellend dak worden er extra bergingen voorzien. Op de zolder verdieping wordt een slaapkamer voorzien.<br>
+
+            </p>
+
         </div>
     </div>
-
+    <section>
+        <div class="divider2">&nbsp;</div>
+    </section>
 </div>
-
-
-<script src="js/jquery-2.1.4.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script src="js/jquery.sidr.min.js"></script>
 
 <?php include_once'footer.php';?>
 

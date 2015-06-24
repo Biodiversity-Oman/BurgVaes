@@ -1,6 +1,7 @@
+<meta name="google-site-verification" content="CJw3FOjY4hWAia7foXv1ZgfbjBEX0eFjrwDX7F0Ec-8" />
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta charset="utf-8">
-<title>burg vaes architecten</title>
+<title>Architectenbureau Burg Vaes</title>
 <link rel="shortcut icon" type="image/x-icon" href="/tab.ico">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <link href="css/bootstrap.min.css" rel="stylesheet">

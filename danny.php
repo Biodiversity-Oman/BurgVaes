@@ -9,7 +9,7 @@ include_once 'header.php';
 <body>
 <div id="wrapper">
     <?php
-    include_once'navigation.php';
+    include_once 'navigation.php';
     ?>
     <section>
         <div class="divider2">&nbsp;</div>
@@ -42,34 +42,58 @@ include_once 'header.php';
                     </div>
 
                 </div>
-
+                <a class="carousel-control right" href="#slider" data-slide="next"><i> >></i></a>
+                <a class="carousel-control left" href="#slider" data-slide="prev"><i> <<</i></a>
             </div>
         </div>
 
     </div>
-    <div class="row">
-        <div class="col-sm-6 col-md-offset-3">
-            <a class="carousel-control left" href="#slider" data-slide="prev"><</a>
-            <a href="//www.pinterest.com/pin/create/button/" data-pin-do="buttonBookmark"  data-pin-color="red">
-                <img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_20.png" /></a>
-            <a class="carousel-control right" href="#slider" data-slide="next">></a>
-        </div>
+</div>
+<!--End Slider-->
+
+<div class="row">
+    <div class="col-md-6 col-md-offset-3">
+        <h3 class="text-center">woning Danny</h3>
+        <ul>
+            <li>Nieuwbouw</li>
+            <li>Ontwerp 2014</li>
+        </ul>
+
+        <h3>Vraag:</h3>
+
+        <p>Ontwerp woning in open bebouwing. </p>
+
+       <h3> Knelpunten:</h3>
+
+
+        <p>De door de opdrachtgever opgelegde voetafdruk, binnen de stedenbouwkundige grenzen, maakt dat de woning een
+            monotoom en zwaar volume dreigt te worden.</p>
+
+
+        <h3>Antwoord:</h3>
+
+        <p>
+            Spelen met dakhellingen.<br>
+            Eén woning met vier dakhellingen, twee verschillend kroonlijsthoogtes en twee verschillende nokhoogtes.<br>
+            Door dit toe te passen breken we het zwaar volume en creëren we een meerwaarde voor het interieur. In de
+            leefruimte kan men kijken tot aan de nok, dit geeft een grote open ruimte met veel licht en lucht. Aan de
+            kant met de hoogste nok bevinden zich de garage en bergingen met daar boven de slaapkamers. De slaapkamers
+            hebben elk een mezzanine waar het bed komt te staan.<br>
+            De opdrachtgever had een sterke voorkeur voor een bepaalde gevelsteen. Die gevelsteen heeft veel kleur
+            schakeringen van licht naar donker. Om de kleur van het buitenschrijnwerk te bepalen nemen we de donkerste
+            kleurtint uit de gevelstenen.<br>
+
+        </p>
+
     </div>
-    <!--End Slider-->
-
-    <div class="row">
-        <div class="col-md-6 col-md-offset-3">
-            <h3 class="text-center">woning Danny</h3>
-
-            <p></p>
-        </div>
-    </div>
-
+</div>
+<section>
+    <div class="divider2">&nbsp;</div>
+</section>
 </div>
 
-<?php include_once'footer.php';?>
+<?php include_once 'footer.php'; ?>
 
 
 </body>
 </html>
-

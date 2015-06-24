@@ -74,7 +74,6 @@ h2 {
 h3 {
     font-size: 14px;
     font-family: Courier, "Courier New", monospace;
-    margin: 5% 0% 5% 0%;
 }
 
 h4 {
@@ -123,6 +122,7 @@ nav ul li{
 @media (min-width: 767px) {
     .navbar-nav.nav-justified > li {
         float: none;
+
     }
 }
 
@@ -303,7 +303,7 @@ carousel
 }
 
 .divider2{
-   min-height: 10%;
+   min-height: 5%;
 }
 
 .carousel-indicators li{
@@ -321,10 +321,10 @@ carousel
 
 }
 
-/*.carousel-control {
+.carousel-control {
     position: absolute;
-    top: 0px;
-    bottom: 0px;
+    top: 50%;
+    bottom:0px;
     left: 0px;
     width: 15%;
     font-size: 20px;
@@ -332,19 +332,20 @@ carousel
     text-align: center;
     text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.6);
     opacity: 0.5;
-}*/
+}
 
 .carousel-control.right {
-    right: 37%;
-    /*left: auto;*/
+    margin-right: -15%;
+    left: auto;
     color: #000000;
     background-image: none;
+
 
 }
 
 .carousel-control.left {
-    left: 37%;
-    /*left: auto;*/
+    margin-left: -15%;
+    left: auto;
     color: #000000;
     background-image: none;
 
@@ -366,17 +367,53 @@ carousel
     margin-top: 1%;
 
 }
-.symbols{
-    float: right;
+.symbols {
     position: fixed;
-    bottom:50%;
-
-
+    top: 50%;
+/*    margin-top: 30%;
+    margin-bottom: auto;
+    opacity: 0.7;*/
 }
 
-.pinnet{
-   visibility: hidden;
-   -webkit-backface-visibility: hidden;
+
+@media screen and (max-width: 993px){
+    .symbols{
+        position: fixed;
+        top: 0%;
+        right: 1%;
+        z-index: 100;
+        float: none;
+        margin-right: 1%;
+        margin-top: 0%;
+        margin-bottom: auto;
+        opacity: 0.7;
+    }
+    .symbols > ul > li {
+        float: left;
+        display: inline-block;
+
+    }
+    .carousel-control.right {
+        margin-right: 5%;
+        left: auto;
+        color: #000000;
+        background-image: none;
+    }
+
+    .carousel-control.left {
+        margin-left: 5%;
+        left: auto;
+        color: #000000;
+        background-image: none;
+
+    }
+}
+
+#hamburger{
+    position: fixed;
+    top: 0%;
+    z-index: 1000;
+    opacity: 0.7;
 }
 
 .fixed {
@@ -403,6 +440,7 @@ a{
     display: flex;
     align-items: center;
 }
+
 
 
 

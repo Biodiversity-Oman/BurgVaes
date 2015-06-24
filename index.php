@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta name="google-site-verification" content="CJw3FOjY4hWAia7foXv1ZgfbjBEX0eFjrwDX7F0Ec-8" />
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
-    <title>burg vaes architecten</title>
+    <title>Architectenbureau Burg Vaes</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <link rel="shortcut icon" type="image/x-icon" href="/tab.ico">
     <meta name="keywords"
@@ -24,8 +25,8 @@
         <div class="first-container " id="section1">
             <img src="css/images/homepageDraw.png" class="img-responsive absolute-center">
 
-            <div class="fixed">
-                <a href="#section2"><p id="fScroll" class="glyphicon glyphicon-chevron-down "></p></a>
+            <div class="fixed" id="fScroll">
+                <a href="#section2"><p class="glyphicon glyphicon-chevron-down"></p></a>
             </div>
 
         </div>
@@ -182,101 +183,50 @@
                         <div class="container">
                             <h2 class="text-center">info </h2>
 
-                            <div class="col-lg-4  ">
-                                <ul>
-                                    <li><h5> architect / zaakvoerder </h5></li>
-                                    <li></li>
-                                    <li>master in de architectuur</li>
+                            <h3>Architectenbureau Burg Vaes<br>Opgericht in 2012</h3>
 
-                                    <li> campus Sint-Lucas Brussel, Faculteit architectuur.</li>
+                            <p>Ontwerpmatig gericht architectenbureau waarbij de focus ligt op detaillering en het gebruik van kwalitatieve en duurzame materialen.
+                                Het budget nooit uit het oog verliezen loopt samen met deze ingesteldheid.
+                                Professionele ondersteuning van ontwerp tot uitvoering voor het realiseren van uw project.
+                            </p>
+                            <p>Wij bieden een totaalpakket aan van interieur tot omgeving, waarbij o.a. de volgende zaken belangrijk zijn:</p>
 
-                                    <li> afgestudeerd met onderscheiding 2009-2011</li>
-
-                                    <li>schakelprogramma van interieurvormgeving naar architectuur
-                                        Campus Sint-Lucas Brussel, Faculteit architectuur.
-                                        2007-2009
-                                    </li>
-
-                                    <li> bachelor interieurvormgeving</li>
-
-                                    <li> hogeschool Sint-Lukas Brussel 2004-2007</li>
-                                </ul>
-                            </div>
-
-                            <div class="col-lg-4">
-                                <h5>stage als architect bij Axis Architecten & ingenieurs</h5>
-                                <h6>september 2012 tem december 2013</h6>
-                                <ul>
-                                    <li>werk:</li>
-                                    <li> 1 jeugdcentrum // ontwerp tot bouwaanvraag</li>
-                                    <li> 1 sociale woonwijk //opvolging werf</li>
-                                    <li> 1 magazijn- en kantoorgebouw // werfopvolging</li>
-                                    <li> 1 zorgcentrum // werfopvolging</li>
-                                    <li> 1 interieuropdracht // ontwerp tot uitvoering</li>
-                                </ul>
-                            </div>
-                            <div class="col-lg-4">
-
-
-                                <h5>stage als interieurvormgever bij Arne Quinze and Milan</h5>
-                                <h6>juni-juli 2006</h6>
-                                <ul>
-                                    <li>werk:</li>
-                                    <li>1 interieuropdracht voor inrichting van een apotheek //
-                                        ontwerp,uitvoeringsplannen
-                                    </li>
-                                </ul>
-                            </div>
-
+                          <ul>
+                              <li>…………relatie tussen mens en ruimte, </li>
+                              <li>licht en schaduw,</li>
+                              <li>relatie binnen met buiten en buiten met binnen,</li>
+                              <li>onderlinge relatie tussen de verschillende ruimtes,</li>
+                              <li>opportuniteiten zoeken en uitspelen in het ontwerp,</li>
+                              <li>interessante ruimtelijke oplossingen op organisatorische problemen,</li>
+                              <li>rationele keuzes en logische constructies,</li>
+                              <li>het implementeren van de huidige bouwfysische eisen in een architecturaal,</li>
+                              <li>interessant ontwerp…………</li>
+                          </ul>
+                            <p>Deze lijst is natuurlijk ongelimiteerd maar op het eind is het tevredenstellen van de klant de hoofdzaak.</p>
+                            <ul>
+                                <li><h4>Personalia</h4></li>
+                                <li>Burghard Vaes</li>
+                                <li>1981°</li>
+                                <li>&nbsp;</li>
+                                <li>Master in de architectuur</li>
+                                <li>Campus Sint-Lucas Brussel, Faculteit architectuur.</li>
+                                <li>Afgestudeerd met onderscheiding</li>
+                                <li>2009-2011</li>
+                                <li>&nbsp;</li>
+                                <li>Schakelprogramma van interieurvormgeving naar architectuur</li>
+                                <li>Campus Sint-Lucas Brussel, Faculteit architectuur.</li>
+                                <li>2007-2009</li>
+                                <li>&nbsp;</li>
+                                <li>Bachelor interieurvormgeving</li>
+                                <li>Hogeschool Sint-Lukas Brussel</li>
+                                <li>2004-2007</li>
+                            </ul>
 
                         </div>
                     </div>
-                    <br>
-
-                    <div class="row">
-                        <div class="container">
-                            <div class="col-lg-4">
-                                <h5>architectenbureau Burg Vaes</h5>
-                                <h6>sinds januari 2012</h6>
-
-                                <ul>
-                                    <li>werk:</li>
-                                    <li> 3 nieuwbouwwoningen voor particulieren // 2 momenteel in uitvoering</li>
-                                    <li> 9 renovaties voor particulieren // 3 momenteel in uitvoering</li>
-                                    <li> 1 meergezinswoning voor particulier // fase voorontwerp</li>
-                                    <li> 1 kangoeroewoning voor particulier // fase voorontwerp</li>
-                                </ul>
-                            </div>
-
-                            <div class="col-lg-4">
-                                <h5> stage als architect bij studiebureau Rimanque</h5>
-                                <h6> november 2011 tot september 2012</h6>
-                                <ul>
-                                    <li>werk:</li>
-                                    <li>2 meergezinswoningen // bouwaanvraag</li>
-                                    <li> 1 school basisonderwijs // uitvoeringsplannen</li>
-                                    <li> 1 nieuwbouwwoning // ontwerp</li>
-                                    <li> 1 renovatie eengezinswoning // bouwaanvraag</li>
-                                    <li> 2 industrielen gebouwen // ontwerp, bouwaanvraag</li>
-                                </ul>
-                            </div>
 
 
-                            <div class="col-lg-4">
 
-                                <h5>handgemaakte tafel voor Design Brussels: Table Talks, onderleiding van Giovanna
-                                    Massoni</h5>
-                                <h6>juni-november 2007</h6>
-                                <ul>
-                                    <li>werk:</li>
-                                    <li> Ontwerp en eigenhandige uitvoering van een tafel tentoongesteld op de beurs
-                                        ‘design
-                                        Brussels’.
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
                 </div>
 
 
@@ -370,7 +320,13 @@
                             }
                         );
                     });
+                    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
+                    ga('create', 'UA-64404654-1', 'auto');
+                    ga('send', 'pageview');
                 </script>
 </body>
 </html>

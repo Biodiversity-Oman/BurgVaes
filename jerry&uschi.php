@@ -66,33 +66,44 @@ include_once 'header.php';
 
 
                 </div>
-
+                <a class="carousel-control right" href="#slider" data-slide="next"><i> >></i></a>
+                <a class="carousel-control left" href="#slider" data-slide="prev"><i> <<</i></a>
             </div>
         </div>
 
     </div>
-    <div class="row">
-        <div class="col-sm-6 col-md-offset-3">
-            <a class="carousel-control left" href="#slider" data-slide="prev"><</a>
-            <a href="//www.pinterest.com/pin/create/button/" data-pin-do="buttonBookmark"  data-pin-color="red">
-                <img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_20.png" /></a>
-            <a class="carousel-control right" href="#slider" data-slide="next">></a>
-        </div>
-    </div>
+
     <!--End Slider-->
 
     <div class="row">
         <div class="col-md-6 col-md-offset-3">
             <h3 class="text-center">woning Jerry & Uschi</h3>
+            <ul>
+                <li>Renovatie</li>
+                <li>Ontwerp 2013</li>
+            </ul>
 
-            <p></p>
+            <h3>Vraag:</h3>
+            <p>Een ruimte creëren waar een keuken, een opnamestudio en een badkamer in kunnen.<br>
+                Afbraak van verschillende stallingen.
+            </p>
+
+            <h3>Antwoord:</h3>
+            <p>
+                Een volume dat in contrast staat met de bestaande woning. Het contrast zal gevonden worden in de vorm en het materiaal gebruik.<br>
+                De gevels worden bekleed met vezelcementpanelen die verticaal geplaatst worden. Om het hoge volume te breken voorzien we tussen gelijkvloers en verdiep een u-profiel dat doorloopt in een dakrand profiel.<br>
+
+            </p>
+
         </div>
     </div>
-
+    <section>
+        <div class="divider2">&nbsp;</div>
+    </section>
 </div>
 
 <?php include_once'footer.php';?>
 
 
 </body>
-</html>>
+</html>
