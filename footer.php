@@ -2,6 +2,7 @@
 <script src="js/bootstrap.min.js"></script>
 <script src="js/jquery.sidr.min.js"></script>
 <script type="text/javascript" async defer src="//assets.pinterest.com/js/pinit.js"></script>
+<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
 
 <script>
 

@@ -60,6 +60,14 @@ include_once 'header.php';
                         <img src="css/images/ronald&simone/10%20Ronald%20en%20Simone.jpg" class="img-responsive" alt="">
                     </div>
 
+                    <div class="item">
+                        <img src="css/images/ronald&simone/11%20NIEUW%20Ronald%20en%20Simone.jpg" class="img-responsive" alt="">
+                    </div>
+
+                    <div class="item">
+                        <img src="css/images/ronald&simone/12%20NIEUW%20Ronald%20en%20Simone.jpg" class="img-responsive" alt="">
+                    </div>
+
                 </div>
                 <a class="carousel-control right" href="#slider" data-slide="next"><i> >></i></a>
                 <a class="carousel-control left" href="#slider" data-slide="prev"><i> <<</i></a>

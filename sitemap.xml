@@ -8,32 +8,46 @@
 
 <url>
   <loc>http://burgvaes.be/</loc>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>http://burgvaes.be/dries&amp;sarina.php</loc>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>http://burgvaes.be/burg&amp;ine.php</loc>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>http://burgvaes.be/danny.php</loc>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>http://burgvaes.be/bert&amp;kelly.php</loc>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>http://burgvaes.be/jerry&amp;uschi.php</loc>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>http://burgvaes.be/ronald&amp;simone.php</loc>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>http://burgvaes.be/toon&amp;sara.php</loc>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>http://burgvaes.be/vrije_ontwerpen.php</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://burgvaes.be/roan&amp;vincent.php</loc>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>http://burgvaes.be/index.php</loc>
+  <changefreq>weekly</changefreq>
 </url>
 </urlset>

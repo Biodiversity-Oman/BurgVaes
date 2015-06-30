@@ -37,6 +37,10 @@ include_once 'header.php';
                     </div>
 
                     <div class="item">
+                        <img src="css/images/burg&ine/4%20NIEUW%20Burg%20en%20Ine.jpg" class="img-responsive" alt="">
+                    </div>
+
+                    <div class="item">
                         <img src="css/images/burg&ine/5%20Burg%20en%20Ine.jpg" class="img-responsive" alt="">
                     </div>
 
@@ -74,6 +78,18 @@ include_once 'header.php';
 
                     <div class="item">
                         <img src="css/images/burg&ine/14%20Burg%20en%20Ine.jpg" class="img-responsive" alt="">
+                    </div>
+
+                    <div class="item">
+                        <img src="css/images/burg&ine/15%20NIEUW%20Burg%20en%20Ine.jpg" class="img-responsive" alt="">
+                    </div>
+
+                    <div class="item">
+                        <img src="css/images/burg&ine/16%20NIEUW%20Burg%20en%20Ine.jpg" class="img-responsive" alt="">
+                    </div>
+
+                    <div class="item">
+                        <img src="css/images/burg&ine/17%20NIEUW%20Burg%20en%20Ine.jpg" class="img-responsive" alt="">
                     </div>
                 </div>
                 <a class="carousel-control right" href="#slider" data-slide="next"><i> >></i></a>
@@ -132,6 +148,7 @@ include_once 'header.php';
     <section>
         <div class="divider2">&nbsp;</div>
     </section>
+
 </div>
 
 <?php include_once'footer.php';?>

@@ -41,6 +41,14 @@ include_once 'header.php';
                         <img src="css/images/danny/5%20woning%20Danny.jpg" class="img-responsive" alt="">
                     </div>
 
+                    <div class="item">
+                        <img src="css/images/danny/6%20NIEUW%20woning%20Danny.jpg" class="img-responsive" alt="">
+                    </div>
+
+                    <div class="item">
+                        <img src="css/images/danny/7%20NIEUW%20woning%20Danny.jpg" class="img-responsive" alt="">
+                    </div>
+
                 </div>
                 <a class="carousel-control right" href="#slider" data-slide="next"><i> >></i></a>
                 <a class="carousel-control left" href="#slider" data-slide="prev"><i> <<</i></a>
