@@ -1,7 +1,3 @@
-<div id="hamburger">
-    <a id="simple-menu" href="#sidr"><img src="css/images/hamburger.jpg" class="img-responsive"></a>
-</div>
-
 <div class="symbols">
     <ul id="socialSymbol">
         <li>
@@ -15,25 +11,25 @@
         </li>
     </ul>
 </div>
-<div id="sidr">
+<div id="menu-toggle">
     <ul>
-        <li><a href="index.php#section1">home</a></li>
-        <li><a href="index.php#section2">projecten</a>
+        <li><a href="index.php#section1" rel="external" or data-ajax="false">home</a></li>
+        <li><a href="index.php#section2" rel="external" or data-ajax="false">projecten</a>
             <ul>
-                <li><a href="roan&vincent.php">roan & vincent</a></li>
-                <li><a href="burg&ine.php">burg & ine</a></li>
-                <li><a href="danny.php">danny</a></li>
-                <li><a href="bert&kelly.php">bert & kelly</a></li>
-                <li><a href="jerry&uschi.php">jerry & ushi</a></li>
-                <li><a href="ronald&simone.php">ronald & simone</a></li>
-                <li><a href="toon&sara.php">toon & sara</a></li>
-                <li><a href="vrije_ontwerpen.php">vrije ontwerpen</a></li>
-                <li><a href="dries&sarina.php">dries & sarina</a></li>
+                <li><a href="roan&vincent.php" rel="external" or data-ajax="false">roan & vincent</a></li>
+                <li><a href="burg&ine.php" rel="external" or data-ajax="false">burg & ine</a></li>
+                <li><a href="danny.php" rel="external" or data-ajax="false">danny</a></li>
+                <li><a href="bert&kelly.php" rel="external" or data-ajax="false">bert & kelly</a></li>
+                <li><a href="jerry&uschi.php" rel="external" or data-ajax="false">jerry & ushi</a></li>
+                <li><a href="ronald&simone.php" rel="external" or data-ajax="false">ronald & simone</a></li>
+                <li><a href="toon&sara.php" rel="external" or data-ajax="false">toon & sara</a></li>
+                <li><a href="vrije_ontwerpen.php" rel="external" or data-ajax="false">vrije ontwerpen</a></li>
+                <li><a href="dries&sarina.php" rel="external" or data-ajax="false">dries & sarina</a></li>
             </ul>
         </li>
-        <li><a href="index.php#section3">info</a></li>
-        <li><a href="index.php#section4">locatie</a></li>
-        <li><a href="index.php#section5">contact</a></li>
+        <li><a href="index.php#section3" rel="external" or data-ajax="false">info</a></li>
+        <li><a href="index.php#section4" rel="external" or data-ajax="false">locatie</a></li>
+        <li><a href="index.php#section5" rel="external" or data-ajax="false">contact</a></li>
     </ul>
 </div>
-
+<a href="#menu-toggle" class="btn" id="menu-toggle"><img src="css/images/hamburger.jpg" class="img-responsive"></a>

@@ -327,9 +327,13 @@ ul li {
 .symbols {
     position: fixed;
     top: 50%;
-/*    margin-top: 30%;
+    right: 0%;
+    z-index: 100;
+    float: none;
+    margin-right: 0%;
+    margin-top: 0%;
     margin-bottom: auto;
-    opacity: 0.7;*/
+    opacity: 0.7;
 }
 
 
@@ -365,29 +369,32 @@ ul li {
 
     }
     .bg-1 {
-        background: url('images/achtergrondfoto-1.jpg') no-repeat center center fixed;
+        background: url('images/achtergrondfoto-1.jpg') no-repeat center fixed;
         min-height: 400px;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
         background-size: cover;
+
     }
     .bg-2 {
-        background: url('images/achtergrondfoto-3.jpg') no-repeat center center fixed;
+        background: url('images/achtergrondfoto-3.jpg') no-repeat center fixed;
         min-height: 400px;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
         background-size: cover;
+
     }
 
     .bg-3 {
-        background: url('images/achtergrondfoto-2.jpg') no-repeat center center fixed;
+        background: url('images/achtergrondfoto-2.jpg') no-repeat center fixed;
         min-height: 400px;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
         background-size: cover;
+
     }
    /*for loading one by one projects*/
     .initial{
@@ -395,11 +402,14 @@ ul li {
     }
 }
 
+
 #hamburger{
     position: fixed;
     top: 0%;
     z-index: 1000;
     opacity: 0.7;
+    padding: 0% !important;
+    margin: 0% !important;
 }
 
 .fixed {
@@ -433,9 +443,3 @@ a{
     padding:2px 5px;
     background:#ccc;
 }
-
-
-
-
-
-
