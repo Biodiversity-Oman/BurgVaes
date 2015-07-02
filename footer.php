@@ -8,6 +8,16 @@
        $("#menu-toggle").click(function(e) {
            e.preventDefault();
            $("#wrapper").toggleClass("toggled");
+           $("#social").slideToggle();
+       });
+
+       $('#menu-toggle > img').on({
+           'click': function() {
+               var src = ($(this).attr('src') === 'css/images/hamburger.jpg')
+                   ? 'css/images/close.jpg'
+                   : 'css/images/hamburger.jpg';
+               $(this).attr('src', src);
+           }
        });
 
     });

@@ -327,7 +327,7 @@ ul li {
 .symbols {
     position: fixed;
     top: 50%;
-    right: 0%;
+    left: 0%;
     z-index: 100;
     float: none;
     margin-right: 0%;
@@ -336,21 +336,20 @@ ul li {
     opacity: 0.7;
 }
 
-
 @media screen and (max-width: 993px){
     .symbols{
         position: fixed;
         top: 0%;
-        right: 1%;
+        right: 0%;
         z-index: 100;
         float: none;
-        margin-right: 1%;
+        margin-right: 0%;
         margin-top: 0%;
         margin-bottom: auto;
         opacity: 0.7;
     }
     .symbols > ul > li {
-        float: left;
+        float: right;
         display: inline-block;
 
     }

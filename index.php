@@ -13,7 +13,7 @@
     <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet" media="none"
           onload="if (media != 'all')
                     media = 'all'">
-    <link href="css/styles.css" rel="stylesheet" type="text/css" media="none" onload="if (media != 'all')
+    <link href="css/styles_min.css" rel="stylesheet" type="text/css" media="none" onload="if (media != 'all')
                     media = 'all'">
     <meta name="keywords"
           content="burg, burghard, vaes, burg vaes, architect,alken, sint-lucas, sint-lukas, Architect Hasselt,
@@ -330,6 +330,11 @@
                         }
                     });
                 }*/
+                });
+                $(function () {
+                    $('.navbar-collapse ul li a:not(.dropdown-toggle)').click(function () {
+                        $('.navbar-toggle:visible').click();
+                    });
                 });
 
                 $("a").click(function () {

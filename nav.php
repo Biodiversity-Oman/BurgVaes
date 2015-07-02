@@ -22,9 +22,9 @@
     </ul>
 </div>
 
-<a href="#menu-toggle" id="menu-toggle"><img src="css/images/hamburger.jpg" class="img-responsive"></a>
+<a href="#menu-toggle" id="menu-toggle"><img id="hamburger" src="css/images/hamburger.jpg" class="img-responsive"></a>
 
-<div class="symbols">
+<div class="symbols" id="social">
     <ul id="socialSymbol">
         <li>
             <a href="javascript:void((function()%7Bvar%20e=document.createElement(&apos;script&apos;);e.setAttribute(&apos;type&apos;,&apos;text/javascript&apos;);e.setAttribute(&apos;charset&apos;,&apos;UTF-8&apos;);e.setAttribute(&apos;src&apos;,&apos;http://assets.pinterest.com/js/pinmarklet.js?r=&apos;+Math.random()*99999999);document.body.appendChild(e)%7D)());"><img src="css/images/pinterest.jpg" class="img-responsive "></a></li>
