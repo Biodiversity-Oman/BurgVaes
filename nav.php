@@ -33,14 +33,15 @@
                 <img src="css/images/facebook.jpg"
                      class="img-responsive"></a>
         </li>
+        <li>
         <a href="http://maps.google.com/maps?daddr=steenweg+137,+herk-de-stad" target="blank"><img
                 src="css/images/googlemaps.jpg"
                 class="img-responsive"></a>
         </li>
-        <li><div id="change">
+<!--        <li><div id="change">
                 <a href="#change" id="change" class="text-center"><span class="glyphicon glyphicon-adjust"></span></a>
             </div>
-        </li>
+        </li>-->
 
     </ul>
 </div>
