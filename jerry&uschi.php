@@ -23,7 +23,7 @@ include_once 'header.php';
 
                             <div class="item active">
                                 <img src="css/images/jerry&uschi/1%20Jerry%20en%20Uschi.jpg" class="img-responsive"
-                                     alt="">
+                                     alt="" >
                             </div>
 
                             <div class="item">

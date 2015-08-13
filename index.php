@@ -279,12 +279,12 @@
                         </ul>
                         <ul id="icons">
                             <li>
-                                <a href="https://www.facebook.com/pages/Architectenbureau-Burg-Vaes/1674083962819378?ref=aymt_homepage_panel">
+                                <a href="https://www.facebook.com/pages/Architectenbureau-Burg-Vaes/1674083962819378?ref=aymt_homepage_panel" target="blank">
                                     <img src="css/images/facebook.jpg"
                                          class="img-responsive text-center"></a>
                             </li>
                             <li>
-                                <a href="http://maps.google.com/maps?daddr=steenweg+137,+herk-de-stad"><img
+                                <a href="http://maps.google.com/maps?daddr=steenweg+137,+herk-de-stad" target="blank"><img
                                         src="css/images/googlemaps.jpg"
                                         class="img-responsive text-center"></a>
                             </li>

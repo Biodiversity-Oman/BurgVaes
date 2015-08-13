@@ -126,3 +126,17 @@
         margin-right: 0;
     }
 }*/
+#sidebar-wrapper.on {
+    background-color: #989898;
+    color: #ffffff;
+    opacity: 1;
+}
+
+.sidebar-nav li a.on {
+    color: #ffffff;
+}
+
+.sidebar-extra.on{
+    color: #ffffff;
+}
+

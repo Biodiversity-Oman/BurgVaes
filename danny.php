@@ -23,7 +23,7 @@ include_once 'header.php';
                         <div class="carousel-inner">
 
                             <div class="item active">
-                                <img src="css/images/danny/1%20woning%20Danny.jpg" class="img-responsive" alt="">
+                                <img src="css/images/danny/1%20woning%20Danny.jpg" class="img-responsive" alt="" >
                             </div>
 
                             <div class="item">

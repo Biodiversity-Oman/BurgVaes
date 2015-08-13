@@ -5,8 +5,8 @@
                     src="css/images/pinterest.jpg" class="img-responsive "></a></li>
         <li>
             <a href="https://www.facebook.com/pages/Architectenbureau-Burg-Vaes/1674083962819378?ref=aymt_homepage_panel"><img
-                    src="css/images/facebook.jpg" class="img-responsive "></a></li>
-        <li><a href="http://maps.google.com/maps?daddr=steenweg+137,+herk-de-stad"><img src="css/images/googlemaps.jpg"
+                    src="css/images/facebook.jpg" class="img-responsive " target="blank"></a></li>
+        <li><a href="http://maps.google.com/maps?daddr=steenweg+137,+herk-de-stad" target="blank"><img src="css/images/googlemaps.jpg"
                                                                                         class="img-responsive "></a>
         </li>
     </ul>

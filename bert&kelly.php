@@ -60,11 +60,15 @@ include_once 'header.php';
                                      alt="">
                             </div>
 
+                            <div class="item">
+                                <img src="css/images/bert&kelly/8%20Bert%20en%20kelly.jpg" class="img-responsive"
+                                     alt="">
+                            </div>
+
 
                         </div>
                         <a class="carousel-control right" href="#slider" data-slide="next"><i> >></i></a>
                         <a class="carousel-control left" href="#slider" data-slide="prev"><i> <<</i></a>
-
                     </div>
                 </div>
 

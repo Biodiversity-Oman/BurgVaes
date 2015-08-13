@@ -20,6 +20,18 @@
            }
        });
 
+       $('#change').on({
+           'click': function() {
+               $('body').toggleClass('on');
+               $('html').toggleClass('on');
+               $('.carousel-control').toggleClass('on');
+               $('#sidebar-wrapper').toggleClass('on');
+               $('.sidebar-nav').toggleClass('on');
+               $('.sidebar-nav > li > a').toggleClass('on');
+               $('.sidebar-extra > a').toggleClass('on');
+           }
+       });
+
     });
 
 </script>

@@ -22,79 +22,93 @@ include_once 'header.php';
                         <div class="carousel-inner">
 
                             <div class="item active">
-                                <img src="css/images/burg&ine/1%20Burg%20en%20Ine.jpg" class="img-responsive" alt="">
+                                <img src="css/images/burg&ine/1%20Burg%20en%20Ine.jpg" class="img-responsive" alt=""
+                                     style="height:100%;">
                             </div>
 
                             <div class="item">
-                                <img src="css/images/burg&ine/2%20Burg%20en%20Ine.jpg" class="img-responsive" alt="">
+                                <img src="css/images/burg&ine/2%20Burg%20en%20Ine.jpg" class="img-responsive" alt=""
+                                     style="height:100%;">
                             </div>
 
                             <div class="item">
-                                <img src="css/images/burg&ine/3%20Burg%20en%20Ine.jpg" class="img-responsive" alt="">
+                                <img src="css/images/burg&ine/3%20Burg%20en%20Ine.jpg" class="img-responsive" alt=""
+                                     style="height:100%;">
                             </div>
 
                             <div class="item">
-                                <img src="css/images/burg&ine/4%20Burg%20en%20Ine.jpg" class="img-responsive" alt="">
+                                <img src="css/images/burg&ine/4%20Burg%20en%20Ine.jpg" class="img-responsive" alt=""
+                                     style="height:100%;">
                             </div>
 
                             <div class="item">
                                 <img src="css/images/burg&ine/4%20NIEUW%20Burg%20en%20Ine.jpg" class="img-responsive"
-                                     alt="">
+                                     alt="" style="height:100%;">
                             </div>
 
                             <div class="item">
-                                <img src="css/images/burg&ine/5%20Burg%20en%20Ine.jpg" class="img-responsive" alt="">
+                                <img src="css/images/burg&ine/5%20Burg%20en%20Ine.jpg" class="img-responsive" alt=""
+                                     style="height:100%;">
                             </div>
 
                             <div class="item">
-                                <img src="css/images/burg&ine/6%20Burg%20en%20Ine.jpg" class="img-responsive" alt="">
+                                <img src="css/images/burg&ine/6%20Burg%20en%20Ine.jpg" class="img-responsive" alt=""
+                                     style="height:100%;">
                             </div>
 
                             <div class="item">
-                                <img src="css/images/burg&ine/7%20Burg%20en%20Ine.jpg" class="img-responsive" alt="">
+                                <img src="css/images/burg&ine/7%20Burg%20en%20Ine.jpg" class="img-responsive" alt=""
+                                     style="height:100%;">
                             </div>
 
                             <div class="item">
-                                <img src="css/images/burg&ine/8%20Burg%20en%20Ine.jpg" class="img-responsive" alt="">
+                                <img src="css/images/burg&ine/8%20Burg%20en%20Ine.jpg" class="img-responsive" alt=""
+                                     style="height:100%;">
                             </div>
 
                             <div class="item">
-                                <img src="css/images/burg&ine/9%20Burg%20en%20Ine.jpg" class="img-responsive" alt="">
+                                <img src="css/images/burg&ine/9%20Burg%20en%20Ine.jpg" class="img-responsive" alt=""
+                                     style="height:100%;">
                             </div>
 
                             <div class="item">
-                                <img src="css/images/burg&ine/10%20Burg%20en%20Ine.jpg" class="img-responsive" alt="">
+                                <img src="css/images/burg&ine/10%20Burg%20en%20Ine.jpg" class="img-responsive" alt=""
+                                     style="height:100%;">
                             </div>
 
                             <div class="item">
-                                <img src="css/images/burg&ine/11%20Burg%20en%20Ine.jpg" class="img-responsive" alt="">
+                                <img src="css/images/burg&ine/11%20Burg%20en%20Ine.jpg" class="img-responsive" alt=""
+                                     style="height:100%;">
                             </div>
 
                             <div class="item">
-                                <img src="css/images/burg&ine/12%20Burg%20en%20Ine.jpg" class="img-responsive" alt="">
+                                <img src="css/images/burg&ine/12%20Burg%20en%20Ine.jpg" class="img-responsive" alt=""
+                                     style="height:100%;">
                             </div>
 
                             <div class="item">
-                                <img src="css/images/burg&ine/13%20Burg%20en%20Ine.jpg" class="img-responsive" alt="">
+                                <img src="css/images/burg&ine/13%20Burg%20en%20Ine.jpg" class="img-responsive" alt=""
+                                     style="height:100%;">
                             </div>
 
                             <div class="item">
-                                <img src="css/images/burg&ine/14%20Burg%20en%20Ine.jpg" class="img-responsive" alt="">
+                                <img src="css/images/burg&ine/14%20Burg%20en%20Ine.jpg" class="img-responsive" alt=""
+                                     style="height:100%;">
                             </div>
 
                             <div class="item">
                                 <img src="css/images/burg&ine/15%20NIEUW%20Burg%20en%20Ine.jpg" class="img-responsive"
-                                     alt="">
+                                     alt="" style="height:100%;">
                             </div>
 
                             <div class="item">
                                 <img src="css/images/burg&ine/16%20NIEUW%20Burg%20en%20Ine.jpg" class="img-responsive"
-                                     alt="">
+                                     alt="" style="height:100%;">
                             </div>
 
                             <div class="item">
                                 <img src="css/images/burg&ine/17%20NIEUW%20Burg%20en%20Ine.jpg" class="img-responsive"
-                                     alt="">
+                                     alt="" style="height:100%;">
                             </div>
                         </div>
                         <a class="carousel-control right" href="#slider" data-slide="next"><i> >></i></a>

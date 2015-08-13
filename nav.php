@@ -29,8 +29,18 @@
         <li>
             <a href="javascript:void((function()%7Bvar%20e=document.createElement(&apos;script&apos;);e.setAttribute(&apos;type&apos;,&apos;text/javascript&apos;);e.setAttribute(&apos;charset&apos;,&apos;UTF-8&apos;);e.setAttribute(&apos;src&apos;,&apos;http://assets.pinterest.com/js/pinmarklet.js?r=&apos;+Math.random()*99999999);document.body.appendChild(e)%7D)());"><img src="css/images/pinterest.jpg" class="img-responsive "></a></li>
         <li>
-            <a href="https://www.facebook.com/pages/Architectenbureau-Burg-Vaes/1674083962819378?ref=aymt_homepage_panel"><img src="css/images/facebook.jpg" class="img-responsive "></a></li>
-        <li><a href="http://maps.google.com/maps?daddr=steenweg+137,+herk-de-stad"><img src="css/images/googlemaps.jpg" class="img-responsive "></a>
+            <a href="https://www.facebook.com/pages/Architectenbureau-Burg-Vaes/1674083962819378?ref=aymt_homepage_panel" target="blank">
+                <img src="css/images/facebook.jpg"
+                     class="img-responsive"></a>
         </li>
+        <a href="http://maps.google.com/maps?daddr=steenweg+137,+herk-de-stad" target="blank"><img
+                src="css/images/googlemaps.jpg"
+                class="img-responsive"></a>
+        </li>
+        <li><div id="change">
+                <a href="#change" id="change" class="text-center"><span class="glyphicon glyphicon-adjust"></span></a>
+            </div>
+        </li>
+
     </ul>
 </div>
