@@ -13,8 +13,7 @@
     <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet" media="none"
           onload="if (media != 'all')
                     media = 'all'">
-    <link href="css/styles_min.css" rel="stylesheet" type="text/css" media="none" onload="if (media != 'all')
-                    media = 'all'">
+    <link href="css/styles.css" rel="stylesheet" type="text/css" >
     <meta name="keywords"
           content="burg, burghard, vaes, burg vaes, architect,alken, sint-lucas, sint-lukas, Architect Hasselt,
           Architect Herk-de-Stad, Architect Limburg,Architect moderne woningen, Interieur architecten,Interieur architecten Hasselt,
@@ -338,7 +337,7 @@
                 });
 
                 $("a").click(function () {
-                    return $("html, body").animate({scrollTop: $($(this).attr("href")).offset().top}, 300), !1
+                    return $("html, body").animate({scrollTop: $($(this).attr("href")).offset().top}, 500), !1
                 });
                 $("[rel='tooltip']").tooltip();
 

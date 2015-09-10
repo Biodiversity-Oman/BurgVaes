@@ -11,5 +11,5 @@
                     media = 'all'">
 <link href="css/styles_min.css" rel="stylesheet"  media="none" onload="if (media != 'all')
                     media = 'all'">
-<link href="css/sidebar.css" rel="stylesheet"  media="none" onload="if (media != 'all')
+<link href="css/sidebar_min.css" rel="stylesheet"  media="none" onload="if (media != 'all')
                     media = 'all'">
